@@ -1,0 +1,1947 @@
+fileFormatVersion: 2
+guid: 060eb4f419ee8e54c8066924b9367091
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OrcWyvern_TakingDamage_0
+    21300002: OrcWyvern_TakingDamage_1
+    21300004: OrcWyvern_TakingDamage_2
+    21300006: OrcWyvern_TakingDamage_3
+    21300008: OrcWyvern_TakingDamage_4
+    21300010: OrcWyvern_TakingDamage_5
+    21300012: OrcWyvern_TakingDamage_6
+    21300014: OrcWyvern_TakingDamage_7
+    21300016: OrcWyvern_TakingDamage_8
+    21300018: OrcWyvern_TakingDamage_9
+    21300020: OrcWyvern_TakingDamage_10
+    21300022: OrcWyvern_TakingDamage_11
+    21300024: OrcWyvern_TakingDamage_12
+    21300026: OrcWyvern_TakingDamage_13
+    21300028: OrcWyvern_TakingDamage_14
+    21300030: OrcWyvern_TakingDamage_15
+    21300032: OrcWyvern_TakingDamage_16
+    21300034: OrcWyvern_TakingDamage_17
+    21300036: OrcWyvern_TakingDamage_18
+    21300038: OrcWyvern_TakingDamage_19
+    21300040: OrcWyvern_TakingDamage_20
+    21300042: OrcWyvern_TakingDamage_21
+    21300044: OrcWyvern_TakingDamage_22
+    21300046: OrcWyvern_TakingDamage_23
+    21300048: OrcWyvern_TakingDamage_24
+    21300050: OrcWyvern_TakingDamage_25
+    21300052: OrcWyvern_TakingDamage_26
+    21300054: OrcWyvern_TakingDamage_27
+    21300056: OrcWyvern_TakingDamage_28
+    21300058: OrcWyvern_TakingDamage_29
+    21300060: OrcWyvern_TakingDamage_30
+    21300062: OrcWyvern_TakingDamage_31
+    21300064: OrcWyvern_TakingDamage_32
+    21300066: OrcWyvern_TakingDamage_33
+    21300068: OrcWyvern_TakingDamage_34
+    21300070: OrcWyvern_TakingDamage_35
+    21300072: OrcWyvern_TakingDamage_36
+    21300074: OrcWyvern_TakingDamage_37
+    21300076: OrcWyvern_TakingDamage_38
+    21300078: OrcWyvern_TakingDamage_39
+    21300080: OrcWyvern_TakingDamage_40
+    21300082: OrcWyvern_TakingDamage_41
+    21300084: OrcWyvern_TakingDamage_42
+    21300086: OrcWyvern_TakingDamage_43
+    21300088: OrcWyvern_TakingDamage_44
+    21300090: OrcWyvern_TakingDamage_45
+    21300092: OrcWyvern_TakingDamage_46
+    21300094: OrcWyvern_TakingDamage_47
+    21300096: OrcWyvern_TakingDamage_48
+    21300098: OrcWyvern_TakingDamage_49
+    21300100: OrcWyvern_TakingDamage_50
+    21300102: OrcWyvern_TakingDamage_51
+    21300104: OrcWyvern_TakingDamage_52
+    21300106: OrcWyvern_TakingDamage_53
+    21300108: OrcWyvern_TakingDamage_54
+    21300110: OrcWyvern_TakingDamage_55
+    21300112: OrcWyvern_TakingDamage_56
+    21300114: OrcWyvern_TakingDamage_57
+    21300116: OrcWyvern_TakingDamage_58
+    21300118: OrcWyvern_TakingDamage_59
+    21300120: OrcWyvern_TakingDamage_60
+    21300122: OrcWyvern_TakingDamage_61
+    21300124: OrcWyvern_TakingDamage_62
+    21300126: OrcWyvern_TakingDamage_63
+    21300128: OrcWyvern_TakingDamage_64
+    21300130: OrcWyvern_TakingDamage_65
+    21300132: OrcWyvern_TakingDamage_66
+    21300134: OrcWyvern_TakingDamage_67
+    21300136: OrcWyvern_TakingDamage_68
+    21300138: OrcWyvern_TakingDamage_69
+    21300140: OrcWyvern_TakingDamage_70
+    21300142: OrcWyvern_TakingDamage_71
+    21300144: OrcWyvern_TakingDamage_72
+    21300146: OrcWyvern_TakingDamage_73
+    21300148: OrcWyvern_TakingDamage_74
+    21300150: OrcWyvern_TakingDamage_75
+    21300152: OrcWyvern_TakingDamage_76
+    21300154: OrcWyvern_TakingDamage_77
+    21300156: OrcWyvern_TakingDamage_78
+    21300158: OrcWyvern_TakingDamage_79
+    21300160: OrcWyvern_TakingDamage_80
+    21300162: OrcWyvern_TakingDamage_81
+    21300164: OrcWyvern_TakingDamage_82
+    21300166: OrcWyvern_TakingDamage_83
+    21300168: OrcWyvern_TakingDamage_84
+    21300170: OrcWyvern_TakingDamage_85
+    21300172: OrcWyvern_TakingDamage_86
+    21300174: OrcWyvern_TakingDamage_87
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1285
+        width: 125
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30545fba61d9794ba7f72491b371b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1284
+        width: 127
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a428752133c544a53f152573f7fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1279
+        width: 132
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffa35872e1620499bcc804f753961e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1271
+        width: 134
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be817a6aa6e6314390b9902bb94a7a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1268
+        width: 134
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6d17d5edf28624c85b5f50b02d18b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1268
+        width: 133
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfbb1083473fb845bc1d257213a9bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1269
+        width: 133
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc2288260aa689418a0d4798e7ae37b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_7
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1275
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239cf9bbe2352f541892cc922d8284fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_8
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1284
+        width: 129
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6c3e51d3798449984fb0e431bd1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_9
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1284
+        width: 127
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef524d6c50bfb6a4683418ded88536ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_10
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1285
+        width: 125
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef52ff85bacfe824a90152ff5f826ade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1084
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d08ce0be9cb154381ca2ae960a95ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1083
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de740acc27b64d498139c882a368094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1079
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238d6e5b79a87d34b9a2c7b1087148e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1076
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9688fed735736e4e808b50dcd49e8f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_15
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1075
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95605a4a6a7148b40822a68d375ce12c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_16
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1075
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c93dfc8622e864ea2f413e017bad73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1076
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf122b87d85bf1449d54903e2c04291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_18
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1077
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ad57277e35b24ca1d6bd7132afeb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_19
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1079
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6458a90da551534ab0cfce355606ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_20
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1083
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d354556726d7314cad454fe7543958e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_21
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1084
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a51376ea99c54db7a678b4fb4e121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 926
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed288e161505e7746bd7be83d28dddb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 925
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84801d87f46d15e4fa2769b9ab9a6969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 922
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683e073e00a64441972084ab48515f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_25
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 919
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3929aad9394a82e44905a831333fe1fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_26
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 918
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec0eebbc8d1bb44ea549bbd6c5a18c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_27
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 918
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b509535edd8515943a139efe5f4da3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_28
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 919
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6e61cba3ba9d43abcced669730d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_29
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 919
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0db3c99d6977a4493f77c6d1e7e4d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_30
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 922
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89b274777714145b4e17034bb5590f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_31
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 925
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2548127380794ca5c489e1d66840f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_32
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 926
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2424513cd86f08459028f02efbea61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 750
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29547c427ee6014ea8214d185151926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 748
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075b0f359da1124abde6619c2f30c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 746
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d366fb0796e2745969cc67d78149e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_36
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 743
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8369556ec9be6104b8b01f9449850388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_37
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 742
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b48098a9f934ea4c80a6c79a6164107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_38
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 743
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57090c846a2b8840a8236b2f9e4197a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_39
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 744
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f8d8f8cdc3fc4d9d663579ef90917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_40
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 744
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a794fc579fc8784f965a292c7f07812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_41
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 746
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75405ef0c5d75954aaa024c1ba87aef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_42
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 749
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b433d63f6b68ba4b9bfdb22ddbe2551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_43
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 750
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53eb4f0df1d1294d8c95683bcc26aca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 568
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f36679ef3c9848b29b54e9899e545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 570
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cace9b9683b1f74c8102c94b563ae7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_46
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 579
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b552c1f17617a04781550ab6906b169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 582
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdada5d88d4af646ab76a9ffcffe056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_48
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 584
+        width: 100
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470cc0ae7e6000f4d84a8aeaf3553f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_49
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 587
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f82131e80f16478bfff4430d44550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_50
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 591
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726133999c0f17439d4f1451034818c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_51
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 586
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350b20ac3dc2ea4bb5dbbcf3f8bea1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_52
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 579
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e04f9473dfdb949918ff120450d880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_53
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 571
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3badbf49a186fc2449d9cd9209518223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_54
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 568
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa4d32c9a601f439726408af48c78a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 394
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380463ed66d8a4d46be94e157083db6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 394
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b382d0fd4e8a9142abc03ddd8887023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_57
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 395
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4455bb6ef576f6c47b4081e27d067641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_58
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 399
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b294f3bf69d492469a0f1cf14271552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_59
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 401
+        width: 114
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd88bc6a65e4669438ff09c42bbee965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_60
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 403
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c393042017a338b469f5ceaa6a0b82ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_61
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 406
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a21460bc600542ab28dc60d9371ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_62
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 407
+        width: 107
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7bdf7b03b67144ad43615d1892b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_63
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 403
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cacf9a454990b44ea94d463a5de9428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_64
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 396
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ff746f3f1dbd4438c5ad502fc380e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_65
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 394
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f04aaf3c7d191b4bad18f1b436090b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 215
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c631938115474c95261495907908b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 216
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e969150ddeb54240a3c8595ec77a09f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_68
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 219
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cabd831fdc5ebf46b30c696768166ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 223
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2964cbae9ea940917d6c82fa9f67e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_70
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 225
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aaeb99a72766a4ba2062f7073b5c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_71
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 227
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd4daac0b44664e8d48f1075c52670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_72
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 229
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95a06c814bd6a42ae6e3b3e15afe4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_73
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 230
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17139e687124fde48aadefa81c1bb8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_74
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 226
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5b5fede5fd3994ea663802b1cafec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_75
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 218
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243f508ed09361439024664901ba83d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_76
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 215
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54ad065ae7fb284c8209d51842dbc31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 120
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6696e3e3b9a08b1438e9bc1a74496b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 52
+        width: 119
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cd669ae2a97f34f843b95663dc6ac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_79
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 47
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb0871fe1322647b1e5cbcaa91b9ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_80
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 39
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f00c2f635901e1448c6ed63306285cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_81
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 37
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0700a7fdf8cf45839632988f32eac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_82
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 36
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c047023388c694f88e0752b52a24f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_83
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 38
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223af0a3313a14429d27fd999a267bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_84
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 44
+        width: 111
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e774fa331569468687ff0b745d5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_85
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 51
+        width: 115
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ba18c74c5da449978b825b5d2c9fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_86
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 51
+        width: 118
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b45136238bcf2145b0b3451b8e59b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_TakingDamage_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 52
+        width: 120
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cefa642da454649bc0de2c7fc7724f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a90e3f47e7e11947ab22894be644bde
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

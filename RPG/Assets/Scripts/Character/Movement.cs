@@ -36,8 +36,8 @@ public class Movement : MonoBehaviour
     // - - - - - - - - Movimiento Jugador - - - - - - - -\\
     private void PlayerMovement()
     {
-        moveHorizontal = Input.GetAxis("Horizontal") * speed;
-        moveVertical = Input.GetAxis("Vertical") * speed;
+        moveHorizontal = Input.GetAxisRaw("Horizontal") * speed;
+        moveVertical = Input.GetAxisRaw("Vertical") * speed;
 
         movement = new Vector2(moveHorizontal, moveVertical);
         player.velocity = movement * speed;
@@ -49,7 +49,7 @@ public class Movement : MonoBehaviour
 
         //Velocidad
         animator.SetFloat("VelocidadH", moveHorizontal);
-        animator.SetFloat("VelocidadV", moveVertical);     
+        animator.SetFloat("VelocidadV", moveVertical);                  
         
     }
 
