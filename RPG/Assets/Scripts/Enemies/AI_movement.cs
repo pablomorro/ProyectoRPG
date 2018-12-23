@@ -7,9 +7,15 @@ public class AI_movement : MonoBehaviour
 {
 
     private Animator animator;
-    private NavMeshAgent nav;
-    private SphereCollider col;
+    //private NavMeshAgent nav;
+    //private SphereCollider col;
     private GameObject player;
+
+    /*
+    [SerializeField] private Transform myEnemy; //Transform del enemigo
+    [SerializeField] private float radiusFindPlayer;  //Radio de busqueda del player
+    [SerializeField] private LayerMask playerLayer;
+    */
 
     public float speed = 0.0f;
     public float h = 0.0f, v = 0.0f; //velocidades horizaontales y verticales
@@ -26,8 +32,8 @@ public class AI_movement : MonoBehaviour
     private void Awake()
     {
         animator = GetComponent<Animator>();
-        nav = GetComponent<NavMeshAgent>();
-        col = GetComponent<SphereCollider>();
+        //nav = GetComponent<NavMeshAgent>();
+        //col = GetComponent<SphereCollider>();
         player = GameObject.FindGameObjectWithTag("Player");
     }
 
@@ -42,7 +48,7 @@ public class AI_movement : MonoBehaviour
     {
 
         
-    }
+    }   
 
     private void FixedUpdate()
     {
@@ -58,7 +64,7 @@ public class AI_movement : MonoBehaviour
         animator.SetBool("Attack", attack);*/
     }
 
-    private void OnTriggerStay2D(Collider2D collision)
+    private void OnTriggerStay2d(Collider2D collision)
     {
         Debug.Log("Entrando");
         if (collision.transform.tag.Equals("Player")) {
@@ -73,4 +79,7 @@ public class AI_movement : MonoBehaviour
             }
         }
     }
+
 }
+
+    

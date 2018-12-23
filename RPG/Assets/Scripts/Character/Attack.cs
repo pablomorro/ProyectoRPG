@@ -16,7 +16,9 @@ public class Attack : MonoBehaviour
     [SerializeField] private float comboTimeLimit;
     [SerializeField] private LayerMask enemigoLayer;
 
-    [SerializeField] private Transform attackChecker;
+    [SerializeField] private Transform attackChecker; //Transform Player
+                                                      //[SerializeField] private Vector2 weaponSize; 
+    [SerializeField] private Rect weaponSize; //tamaño arma
 
     private int damage;
     private TipoAtaque ataque;
@@ -37,6 +39,10 @@ public class Attack : MonoBehaviour
         animator = GetComponent<Animator>();
         duracionAtaqueRapido = 1f;
         realizarAtaqueRapido = 0.7f;
+
+        weaponSize.width = 1f;
+        weaponSize.height = 2f;
+
     }
 
     // Update is called once per frame
@@ -71,14 +77,36 @@ public class Attack : MonoBehaviour
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackChecker.position, radiusAttackCheck);
+
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireCube(attackChecker.position, weaponSize.size);
     }
 
     private void CheckAttack()
     {
-        Collider2D[] enemigos = Physics2D.OverlapCircleAll(attackChecker.position, radiusAttackCheck, enemigoLayer);
+        Vector3 mousePosition = Input.mousePosition;
+        mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
+
+        Vector2 direction = new Vector2(
+            mousePosition.x - transform.position.x,
+            mousePosition.y - transform.position.y);
+
+        RaycastHit2D[] colliderAtaque = Physics2D.BoxCastAll(
+            attackChecker.position, weaponSize.size, 90, Vector2.up, 0, 1 << LayerMask.NameToLayer("Enemy"));
+
+        foreach (var x in colliderAtaque) {
+            if (x.collider.gameObject.tag.Equals("Enemy")) {
+                Debug.Log(x.collider.gameObject.tag);
+            }
+        }
+            
+
+        Collider2D[] enemigos = Physics2D.OverlapCircleAll(
+            attackChecker.position, radiusAttackCheck, enemigoLayer);
+
         if (enemigos.Length != 0)
         {
-            Damaged.golpeado = true;
+            Damaged.golpeado = true; //Enemigo hace la animacion del golpe
         }
     }
 
