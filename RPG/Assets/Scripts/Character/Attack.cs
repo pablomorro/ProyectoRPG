@@ -11,14 +11,15 @@ public class Attack : MonoBehaviour
         fuerte
     }
 
-    [SerializeField] private float radiusAttackCheck;
+    [SerializeField] private float radiusAttack;
     [SerializeField] private int comboAttack;
     [SerializeField] private float comboTimeLimit;
     [SerializeField] private LayerMask enemigoLayer;
 
     [SerializeField] private Transform attackChecker; //Transform Player
                                                       //[SerializeField] private Vector2 weaponSize; 
-    [SerializeField] private Rect weaponSize; //tamaño arma
+    //[SerializeField] private Rect weaponSize; //tamaño arma
+    private Vector2 origen; //Origen del ataque
 
     private int damage;
     private TipoAtaque ataque;
@@ -33,15 +34,18 @@ public class Attack : MonoBehaviour
 
     // Start is called before the first frame update
     void Start()
-    {
+    {       
+        animator = GetComponent<Animator>();
+
         attack = false;
         completado = true;
-        animator = GetComponent<Animator>();
         duracionAtaqueRapido = 1f;
         realizarAtaqueRapido = 0.7f;
 
-        weaponSize.width = 1f;
-        weaponSize.height = 2f;
+        radiusAttack = 0.5f;
+
+        //weaponSize.width = 0.5f;
+        //weaponSize.height = 0.1f;
 
     }
 
@@ -70,16 +74,18 @@ public class Attack : MonoBehaviour
         {
             time += Time.fixedDeltaTime;
         }
-
+       
     }
 
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(attackChecker.position, radiusAttackCheck);
 
-        Gizmos.color = Color.cyan;
-        Gizmos.DrawWireCube(attackChecker.position, weaponSize.size);
+        origen = new Vector2(
+            transform.position.x - 0.1f,
+            transform.position.y);
+
+        Gizmos.DrawWireSphere(origen, radiusAttack);
     }
 
     private void CheckAttack()
@@ -91,23 +97,27 @@ public class Attack : MonoBehaviour
             mousePosition.x - transform.position.x,
             mousePosition.y - transform.position.y);
 
-        RaycastHit2D[] colliderAtaque = Physics2D.BoxCastAll(
-            attackChecker.position, weaponSize.size, 90, Vector2.up, 0, 1 << LayerMask.NameToLayer("Enemy"));
+        origen = new Vector2(
+            transform.position.x + 0.1f,
+            transform.position.y);
 
-        foreach (var x in colliderAtaque) {
+        var rayo = Physics2D.RaycastAll(origen, direction, radiusAttack, 1 << LayerMask.NameToLayer("Enemy"));
+        
+        foreach (var x in rayo) {
             if (x.collider.gameObject.tag.Equals("Enemy")) {
-                Debug.Log(x.collider.gameObject.tag);
+                Debug.Log(x.collider.gameObject.name);
+                Damaged.golpeado = true; //Enemigo hace la animacion del golpe
             }
         }
             
 
-        Collider2D[] enemigos = Physics2D.OverlapCircleAll(
+        /*Collider2D[] enemigos = Physics2D.OverlapCircleAll(
             attackChecker.position, radiusAttackCheck, enemigoLayer);
 
         if (enemigos.Length != 0)
         {
             Damaged.golpeado = true; //Enemigo hace la animacion del golpe
-        }
+        }*/
     }
 
     private void AtaqueRapido()
