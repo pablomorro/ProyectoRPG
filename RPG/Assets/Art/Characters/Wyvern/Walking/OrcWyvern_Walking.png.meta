@@ -1,7 +1,135 @@
 fileFormatVersion: 2
 guid: 29255124a402d164395b8f6b0f6ce5bb
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: OrcWyvern_Walking_0
+    21300002: OrcWyvern_Walking_1
+    21300004: OrcWyvern_Walking_2
+    21300006: OrcWyvern_Walking_3
+    21300008: OrcWyvern_Walking_4
+    21300010: OrcWyvern_Walking_5
+    21300012: OrcWyvern_Walking_6
+    21300014: OrcWyvern_Walking_7
+    21300016: OrcWyvern_Walking_8
+    21300018: OrcWyvern_Walking_9
+    21300020: OrcWyvern_Walking_10
+    21300022: OrcWyvern_Walking_11
+    21300024: OrcWyvern_Walking_12
+    21300026: OrcWyvern_Walking_13
+    21300028: OrcWyvern_Walking_14
+    21300030: OrcWyvern_Walking_15
+    21300032: OrcWyvern_Walking_16
+    21300034: OrcWyvern_Walking_17
+    21300036: OrcWyvern_Walking_18
+    21300038: OrcWyvern_Walking_19
+    21300040: OrcWyvern_Walking_20
+    21300042: OrcWyvern_Walking_21
+    21300044: OrcWyvern_Walking_22
+    21300046: OrcWyvern_Walking_23
+    21300048: OrcWyvern_Walking_24
+    21300050: OrcWyvern_Walking_25
+    21300052: OrcWyvern_Walking_26
+    21300054: OrcWyvern_Walking_27
+    21300056: OrcWyvern_Walking_28
+    21300058: OrcWyvern_Walking_29
+    21300060: OrcWyvern_Walking_30
+    21300062: OrcWyvern_Walking_31
+    21300064: OrcWyvern_Walking_32
+    21300066: OrcWyvern_Walking_33
+    21300068: OrcWyvern_Walking_34
+    21300070: OrcWyvern_Walking_35
+    21300072: OrcWyvern_Walking_36
+    21300074: OrcWyvern_Walking_37
+    21300076: OrcWyvern_Walking_38
+    21300078: OrcWyvern_Walking_39
+    21300080: OrcWyvern_Walking_40
+    21300082: OrcWyvern_Walking_41
+    21300084: OrcWyvern_Walking_42
+    21300086: OrcWyvern_Walking_43
+    21300088: OrcWyvern_Walking_44
+    21300090: OrcWyvern_Walking_45
+    21300092: OrcWyvern_Walking_46
+    21300094: OrcWyvern_Walking_47
+    21300096: OrcWyvern_Walking_48
+    21300098: OrcWyvern_Walking_49
+    21300100: OrcWyvern_Walking_50
+    21300102: OrcWyvern_Walking_51
+    21300104: OrcWyvern_Walking_52
+    21300106: OrcWyvern_Walking_53
+    21300108: OrcWyvern_Walking_54
+    21300110: OrcWyvern_Walking_55
+    21300112: OrcWyvern_Walking_56
+    21300114: OrcWyvern_Walking_57
+    21300116: OrcWyvern_Walking_58
+    21300118: OrcWyvern_Walking_59
+    21300120: OrcWyvern_Walking_60
+    21300122: OrcWyvern_Walking_61
+    21300124: OrcWyvern_Walking_62
+    21300126: OrcWyvern_Walking_63
+    21300128: OrcWyvern_Walking_64
+    21300130: OrcWyvern_Walking_65
+    21300132: OrcWyvern_Walking_66
+    21300134: OrcWyvern_Walking_67
+    21300136: OrcWyvern_Walking_68
+    21300138: OrcWyvern_Walking_69
+    21300140: OrcWyvern_Walking_70
+    21300142: OrcWyvern_Walking_71
+    21300144: OrcWyvern_Walking_72
+    21300146: OrcWyvern_Walking_73
+    21300148: OrcWyvern_Walking_74
+    21300150: OrcWyvern_Walking_75
+    21300152: OrcWyvern_Walking_76
+    21300154: OrcWyvern_Walking_77
+    21300156: OrcWyvern_Walking_78
+    21300158: OrcWyvern_Walking_79
+    21300160: OrcWyvern_Walking_80
+    21300162: OrcWyvern_Walking_81
+    21300164: OrcWyvern_Walking_82
+    21300166: OrcWyvern_Walking_83
+    21300168: OrcWyvern_Walking_84
+    21300170: OrcWyvern_Walking_85
+    21300172: OrcWyvern_Walking_86
+    21300174: OrcWyvern_Walking_87
+    21300176: OrcWyvern_Walking_88
+    21300178: OrcWyvern_Walking_89
+    21300180: OrcWyvern_Walking_90
+    21300182: OrcWyvern_Walking_91
+    21300184: OrcWyvern_Walking_92
+    21300186: OrcWyvern_Walking_93
+    21300188: OrcWyvern_Walking_94
+    21300190: OrcWyvern_Walking_95
+    21300192: OrcWyvern_Walking_96
+    21300194: OrcWyvern_Walking_97
+    21300196: OrcWyvern_Walking_98
+    21300198: OrcWyvern_Walking_99
+    21300200: OrcWyvern_Walking_100
+    21300202: OrcWyvern_Walking_101
+    21300204: OrcWyvern_Walking_102
+    21300206: OrcWyvern_Walking_103
+    21300208: OrcWyvern_Walking_104
+    21300210: OrcWyvern_Walking_105
+    21300212: OrcWyvern_Walking_106
+    21300214: OrcWyvern_Walking_107
+    21300216: OrcWyvern_Walking_108
+    21300218: OrcWyvern_Walking_109
+    21300220: OrcWyvern_Walking_110
+    21300222: OrcWyvern_Walking_111
+    21300224: OrcWyvern_Walking_112
+    21300226: OrcWyvern_Walking_113
+    21300228: OrcWyvern_Walking_114
+    21300230: OrcWyvern_Walking_115
+    21300232: OrcWyvern_Walking_116
+    21300234: OrcWyvern_Walking_117
+    21300236: OrcWyvern_Walking_118
+    21300238: OrcWyvern_Walking_119
+    21300240: OrcWyvern_Walking_120
+    21300242: OrcWyvern_Walking_121
+    21300244: OrcWyvern_Walking_122
+    21300246: OrcWyvern_Walking_123
+    21300248: OrcWyvern_Walking_124
+    21300250: OrcWyvern_Walking_125
+    21300252: OrcWyvern_Walking_126
+    21300254: OrcWyvern_Walking_127
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -31,7 +159,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +168,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,7 +191,18 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -71,7 +210,2567 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1268
+        width: 139
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d83e7e398938248880418ce669cc2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1276
+        width: 141
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeaf1c4abb932641a66e3248130d694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1280
+        width: 139
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282142b6154453419e0547e28282d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1282
+        width: 139
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d6322840bf71429891596a5a38bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1284
+        width: 140
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1822388d99d778a4db3cc1c0ce09e237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1290
+        width: 147
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b349faea6889eb41835caa7d54bd4af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1293
+        width: 151
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff28d360dba048447847bc35b1c4e153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1280
+        width: 146
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5462b742b5be7474f9c80ade33c84db0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1266
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7731bde94cbbda24aa704757f2a87e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1261
+        width: 138
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e3640e707a34443b8f1361d8d8a00c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1258
+        width: 138
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b6fca8722418e498791562cbbe4767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1255
+        width: 138
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b64357cde99a4394dc72947c8db36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_12
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1258
+        width: 138
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdab22b03743ff46b11b109ebc87398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_13
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1258
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0615efb99cea514f884d8bec00fda81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_14
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1261
+        width: 139
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63a9251be854c40b8bd48965017d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_15
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 1266
+        width: 139
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123d4385b4e13844af10164cefa9a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1095
+        width: 139
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d287ada925118b4dafceb44a2552d7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1096
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3596bafd99cfdc4ebe2f702904c9f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1099
+        width: 129
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725de5367ef7134a9326baad42e93d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1100
+        width: 127
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8b0acc63e94a24798eb12e494b5b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1099
+        width: 133
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f438632e6c2184ab82fbe32ba8d81b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1092
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff1d0da035660448f66acd8a2207ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_22
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1088
+        width: 149
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67be70b1789c9242a4d5ecfd927ccb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_23
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1085
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec3cd2da149f784b9fff72754c525fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_24
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1082
+        width: 147
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e20cd0d524b84abd6f4610d0cbec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_25
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1082
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5906d6244e290c449d55394056a07b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_26
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1082
+        width: 127
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69efebda737ace4eb2724035c39e2cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_27
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1085
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9753cc2ca04d240869aac670b4c8ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_28
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1086
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050dd9b60312e99429cce6894f752279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_29
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1089
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764fc7e4510c20d4fb12559b8759c171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_30
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1092
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8706bfc0a186aac4a875eb5b102968fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_31
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1093
+        width: 139
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581544c0f4a2d6147be6c32ea4bdd25e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 936
+        width: 143
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834c7fec41ce444a92dc26ec96ff22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 938
+        width: 141
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732d53c58d724164d8afad3b7ffaa2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 941
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5656f60b245dab14a93cac8b07a85b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_35
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 941
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6230a2e0c56ddff44843f1f4310755ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_36
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 939
+        width: 140
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf6efeec5f5ab49a8458beba49cf9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_37
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 935
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d8e5668f1ae8a4e9ec2eb3ac357c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_38
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 932
+        width: 141
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24005e95a713a4b919903e19cde018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_39
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 930
+        width: 141
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80be6dba19eab9448d9996d5c981024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_40
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 927
+        width: 141
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bae3fd08c7e7545a42bc862c267fd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_41
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 927
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7572c5cebc5d82848b9488522cc03345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_42
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 927
+        width: 133
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65af2650c29bf544f99f760f3016d633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_43
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 928
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632dc656ecb3c940a0072b37522735b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_44
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 930
+        width: 117
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc68a42505ddc24595c9b5120b4b639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_45
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 932
+        width: 121
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76e6d1a7b7fa64e8f00ffc539da000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_46
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 935
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e30e2535df343408827ad80b417c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_47
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 936
+        width: 142
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8459bed91cead964988d667dcde33d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 760
+        width: 154
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9101ba54034d95a4881e20bd10264c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 762
+        width: 150
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b0899c6e9bec468a52780407f6cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 765
+        width: 147
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85790716e6d34c2479ebbf859553cded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_51
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 766
+        width: 147
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd781269f2b1a49b7d4402f60cfc61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_52
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 763
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d21907840f394a8d7b5ee46399815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_53
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 759
+        width: 150
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe23f8ad1cdf194eb945a40985dc93a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_54
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 756
+        width: 151
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926b181a711f154ab9c743bc3b817a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_55
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 754
+        width: 151
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d57f78e952dc44db551323df990f1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_56
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 751
+        width: 149
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ebc5cf3b3491f48ae7d9ca07bc4f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_57
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 751
+        width: 141
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbf0ff45c9df9478c329bde28137d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_58
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 751
+        width: 139
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8db05bab2cf2bb4582084f007ab91df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_59
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 752
+        width: 132
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7259f7cd511c4e9943fdf82085b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_60
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 754
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b124d148e0ebf2c448b5c6d31b58b5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_61
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 756
+        width: 133
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf7a291998eb346afec627b5d10550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_62
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 759
+        width: 144
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53efa1f0f62db45a404d7664a015bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_63
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 760
+        width: 151
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c9c0140685f694583f27a527946118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 575
+        width: 156
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97394af32c2d42448b3e34933729adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_65
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 573
+        width: 152
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b98990aca660e944b2072ea4e06281f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_66
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 573
+        width: 148
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456c716c1cdc8146bfdfc96972c39a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_67
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 573
+        width: 148
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55936771860072e42adde28870fda584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_68
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 572
+        width: 151
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d964c0ec0465419b142d9d3c83792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_69
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 573
+        width: 158
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d789301a5897429104b95ddcbf39d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_70
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 573
+        width: 162
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0e48cfc122bd41b88253a207f9d32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_71
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 573
+        width: 165
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e108a848a42ee8241bd2f03673613ab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_72
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 573
+        width: 163
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c8f0fc8d854f4fbfa013c54f5171a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_73
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 575
+        width: 155
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f981a090693ed44b9e59e6112df140e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_74
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 575
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99db1c43f0187f4ea25f074c84814d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_75
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 576
+        width: 118
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ecf703945d434baf5097316c51815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_76
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 576
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3a76ceee082354abe140ffe37c76c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_77
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 575
+        width: 120
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270dbd5eaadd99e4baa0911866cf5ff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_78
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 573
+        width: 140
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1cd9e60f02d847bc4f876ca449d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_79
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 573
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5026417d53445459b5b069abf18e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 391
+        width: 119
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f1483749ffbd241a097c028651ff39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_81
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 399
+        width: 119
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45744b984ca57479becdd490598c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_82
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 402
+        width: 118
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8238c6e4b0e2240b59e2ee1e36cc22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 402
+        width: 117
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd789aef19fc9e140bb9bea69e18d74b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_84
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 404
+        width: 120
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a65bdfc9f3e54e962da31a4325ce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_85
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 410
+        width: 129
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0acb522d05a154f8f82ee71fdbe684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_86
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 411
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d83add33554ba042bdefc07156acbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_87
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 404
+        width: 137
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb4a242b70f354a833e52f274861f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_88
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 389
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9597ce38fd2524c9e6ebc93fc33a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_89
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 382
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd9f3e0396bda47a2ecb37ac2485e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_90
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 380
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4daa7cd3791d214fa08285333d211af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_91
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 375
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87039ffc0a9580f4e9eb02aa8f54d7d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_92
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 377
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496263b58f23d84fbbdb6b5ae5bc946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_93
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 378
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33991ede7faf74383db87cf0983683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_94
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 382
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148bc0c343334a4ca78071a2e8f62f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_95
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 389
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9902c7277fddbde49bda8f7b4352107f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 213
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd18b1c45f6404595433c8313ddb86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_97
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 219
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4220129ba2262940a2952eb2df3d3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_98
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 223
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ed52800bed2714e87fe12137551eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_99
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 224
+        width: 120
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1d091924258ac4bbd0e08227531999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_100
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 228
+        width: 126
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54073733e49b53d4981a6bd7559dbad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_101
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 234
+        width: 143
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896286b8d1020f948b123df68859ce0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_102
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 235
+        width: 146
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df127aa0547089841a0959bece03ea0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_103
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 231
+        width: 147
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045b1dc11fef624abce4e2b3c8b131c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_104
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 215
+        width: 139
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc68a8831dce88418de3108c1a29587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_105
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 206
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d5433cbfa18b4eacdfd9f33584820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_106
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 204
+        width: 121
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd22d907f931f14abc2f543f26ef2c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_107
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 199
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0a40b889637dd41aa5c74380db1f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_108
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 201
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde6c43c6a120f0418536ec484661416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_109
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 202
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83fab93dbb1144daa62f3db82a9ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_110
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 206
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dfbf8a025782e41934d907e4069b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_111
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 212
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25118bcbe0aaf6648bf6a1d7f4d7b27f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_112
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e043dca7958743a9b9ab452d17f4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_113
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 43
+        width: 137
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c8bc3b3077604fadb3259920a5d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 48
+        width: 138
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6b2cbd1597d541b23d857a5041e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_115
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 50
+        width: 137
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644bbb81af9b7974b9969c4c5db87a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_116
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 51
+        width: 137
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfcc913749f5346b3b0e4fb0bcab01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_117
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 58
+        width: 133
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865545f0d1c0804badb61a1a443176d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_118
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 58
+        width: 133
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85d5180f1d9064ab3844e9d2e34f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_119
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 51
+        width: 132
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c918b4cb98d112642b79f6a6ce9856ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_120
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 34
+        width: 130
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e206dc59a83f4d95b0f2b38ffe95d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_121
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 29
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db736456d355654f8bc24e062289ae4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_122
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 26
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17fc1002049d844a21e5ec9403d9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_123
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 23
+        width: 130
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d7b646ece2b746a1c5ead85171d5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_124
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 29
+        width: 133
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cb21645b484954db073aac68c8a76e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_125
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 29
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3188c68d286f7f54a895888cd5708b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_126
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 29
+        width: 136
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7155d229679b6a44fae72f1ae58b914f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Walking_127
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 33
+        width: 137
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af1793ba82e30469498364c9445e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
