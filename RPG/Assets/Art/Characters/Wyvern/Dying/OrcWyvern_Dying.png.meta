@@ -1,7 +1,135 @@
 fileFormatVersion: 2
 guid: 5b41030da96aa524aadd928bc2594849
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: OrcWyvern_Dying_0
+    21300002: OrcWyvern_Dying_1
+    21300004: OrcWyvern_Dying_2
+    21300006: OrcWyvern_Dying_3
+    21300008: OrcWyvern_Dying_4
+    21300010: OrcWyvern_Dying_5
+    21300012: OrcWyvern_Dying_6
+    21300014: OrcWyvern_Dying_7
+    21300016: OrcWyvern_Dying_8
+    21300018: OrcWyvern_Dying_9
+    21300020: OrcWyvern_Dying_10
+    21300022: OrcWyvern_Dying_11
+    21300024: OrcWyvern_Dying_12
+    21300026: OrcWyvern_Dying_13
+    21300028: OrcWyvern_Dying_14
+    21300030: OrcWyvern_Dying_15
+    21300032: OrcWyvern_Dying_16
+    21300034: OrcWyvern_Dying_17
+    21300036: OrcWyvern_Dying_18
+    21300038: OrcWyvern_Dying_19
+    21300040: OrcWyvern_Dying_20
+    21300042: OrcWyvern_Dying_21
+    21300044: OrcWyvern_Dying_22
+    21300046: OrcWyvern_Dying_23
+    21300048: OrcWyvern_Dying_24
+    21300050: OrcWyvern_Dying_25
+    21300052: OrcWyvern_Dying_26
+    21300054: OrcWyvern_Dying_27
+    21300056: OrcWyvern_Dying_28
+    21300058: OrcWyvern_Dying_29
+    21300060: OrcWyvern_Dying_30
+    21300062: OrcWyvern_Dying_31
+    21300064: OrcWyvern_Dying_32
+    21300066: OrcWyvern_Dying_33
+    21300068: OrcWyvern_Dying_34
+    21300070: OrcWyvern_Dying_35
+    21300072: OrcWyvern_Dying_36
+    21300074: OrcWyvern_Dying_37
+    21300076: OrcWyvern_Dying_38
+    21300078: OrcWyvern_Dying_39
+    21300080: OrcWyvern_Dying_40
+    21300082: OrcWyvern_Dying_41
+    21300084: OrcWyvern_Dying_42
+    21300086: OrcWyvern_Dying_43
+    21300088: OrcWyvern_Dying_44
+    21300090: OrcWyvern_Dying_45
+    21300092: OrcWyvern_Dying_46
+    21300094: OrcWyvern_Dying_47
+    21300096: OrcWyvern_Dying_48
+    21300098: OrcWyvern_Dying_49
+    21300100: OrcWyvern_Dying_50
+    21300102: OrcWyvern_Dying_51
+    21300104: OrcWyvern_Dying_52
+    21300106: OrcWyvern_Dying_53
+    21300108: OrcWyvern_Dying_54
+    21300110: OrcWyvern_Dying_55
+    21300112: OrcWyvern_Dying_56
+    21300114: OrcWyvern_Dying_57
+    21300116: OrcWyvern_Dying_58
+    21300118: OrcWyvern_Dying_59
+    21300120: OrcWyvern_Dying_60
+    21300122: OrcWyvern_Dying_61
+    21300124: OrcWyvern_Dying_62
+    21300126: OrcWyvern_Dying_63
+    21300128: OrcWyvern_Dying_64
+    21300130: OrcWyvern_Dying_65
+    21300132: OrcWyvern_Dying_66
+    21300134: OrcWyvern_Dying_67
+    21300136: OrcWyvern_Dying_68
+    21300138: OrcWyvern_Dying_69
+    21300140: OrcWyvern_Dying_70
+    21300142: OrcWyvern_Dying_71
+    21300144: OrcWyvern_Dying_72
+    21300146: OrcWyvern_Dying_73
+    21300148: OrcWyvern_Dying_74
+    21300150: OrcWyvern_Dying_75
+    21300152: OrcWyvern_Dying_76
+    21300154: OrcWyvern_Dying_77
+    21300156: OrcWyvern_Dying_78
+    21300158: OrcWyvern_Dying_79
+    21300160: OrcWyvern_Dying_80
+    21300162: OrcWyvern_Dying_81
+    21300164: OrcWyvern_Dying_82
+    21300166: OrcWyvern_Dying_83
+    21300168: OrcWyvern_Dying_84
+    21300170: OrcWyvern_Dying_85
+    21300172: OrcWyvern_Dying_86
+    21300174: OrcWyvern_Dying_87
+    21300176: OrcWyvern_Dying_88
+    21300178: OrcWyvern_Dying_89
+    21300180: OrcWyvern_Dying_90
+    21300182: OrcWyvern_Dying_91
+    21300184: OrcWyvern_Dying_92
+    21300186: OrcWyvern_Dying_93
+    21300188: OrcWyvern_Dying_94
+    21300190: OrcWyvern_Dying_95
+    21300192: OrcWyvern_Dying_96
+    21300194: OrcWyvern_Dying_97
+    21300196: OrcWyvern_Dying_98
+    21300198: OrcWyvern_Dying_99
+    21300200: OrcWyvern_Dying_100
+    21300202: OrcWyvern_Dying_101
+    21300204: OrcWyvern_Dying_102
+    21300206: OrcWyvern_Dying_103
+    21300208: OrcWyvern_Dying_104
+    21300210: OrcWyvern_Dying_105
+    21300212: OrcWyvern_Dying_106
+    21300214: OrcWyvern_Dying_107
+    21300216: OrcWyvern_Dying_108
+    21300218: OrcWyvern_Dying_109
+    21300220: OrcWyvern_Dying_110
+    21300222: OrcWyvern_Dying_111
+    21300224: OrcWyvern_Dying_112
+    21300226: OrcWyvern_Dying_113
+    21300228: OrcWyvern_Dying_114
+    21300230: OrcWyvern_Dying_115
+    21300232: OrcWyvern_Dying_116
+    21300234: OrcWyvern_Dying_117
+    21300236: OrcWyvern_Dying_118
+    21300238: OrcWyvern_Dying_119
+    21300240: OrcWyvern_Dying_120
+    21300242: OrcWyvern_Dying_121
+    21300244: OrcWyvern_Dying_122
+    21300246: OrcWyvern_Dying_123
+    21300248: OrcWyvern_Dying_124
+    21300250: OrcWyvern_Dying_125
+    21300252: OrcWyvern_Dying_126
+    21300254: OrcWyvern_Dying_127
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -31,7 +159,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +168,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,7 +191,18 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -71,7 +210,2567 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1284
+        width: 125
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22bb1000bc37043a0da0e0083cb152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1283
+        width: 130
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e764f5944f483ed46acf857f30fddfb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1277
+        width: 134
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54330fd2572b7049afa90d855587764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1269
+        width: 138
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3991cb66e6c106549894491dbefe8618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1266
+        width: 136
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a389b35c997f4480aafbaf5d806c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1265
+        width: 133
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f91f3ec708f544095475d07bd19bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_6
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1262
+        width: 127
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc9c5f9915249468dd6ee605ac26ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_7
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1260
+        width: 121
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9516f9022d016c4ab15dfdf3c497767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1258
+        width: 117
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b654e9c2d3fb54d99807786c87c9e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_9
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1257
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476e85bb5ad42754282fac4062669e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_10
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1257
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5009133ad46e72a40b21f57bf1ef596a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_11
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1255
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0344a7f24da7384eaf048a8750d1d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_12
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1255
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15572fd649538f4caba769512579db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_13
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1255
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201494d59f19adb438e1f7442b357d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_14
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1255
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31b7d785ebf2e84283f37d2b093de91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_15
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1255
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ca09152758b354c87ab05e7118acaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1084
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5e9ff900149b408b4378367253e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1082
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d44ee889769fe046b89c5e25795538d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1079
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac6655a5f5579f4499629b3b001d353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1077
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9c134d2626b34293144549007d2b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_20
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1074
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d728d56f5e556408d70d6c992cfe07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_21
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1074
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974471a005191e8438f420f532c2f697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_22
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1075
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a3f47c9411cb45ae99da8f53328f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_23
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1077
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0731dececaca184cb68cf6c7cd0966b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_24
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1078
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba777e58662827c4a9f3f80a811cc17d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_25
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1078
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e384eedb642bc64b8505f2dd65ca010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_26
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1079
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0cc5ff2eba04645af225de5aea08fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_27
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1079
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15980901c0610c46aa1a9123b5b6e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_28
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1079
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054ac25a0aa4284a8c8723249b5ec84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_29
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1079
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910631285231db40932d06c0cf69b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_30
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1079
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8eef68bb0cac14d837c705c1fa43ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_31
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1079
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2083d27bc29fc46a71d1ddde205494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 925
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9620b91e84b5e4ca2933ee205e33f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 924
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2758162de08b49a53d148f994ad51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 921
+        width: 106
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed9416740e3dc4ead1694551199466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 919
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f7787281a0964cb246c9da5c558dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_36
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 917
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb71a0f613773504f90711e202cb77c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_37
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 917
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaff4ca4d3ee5f4cac45d1123173ab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_38
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 917
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226fd6218f237e74f890178e73ad4a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_39
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 917
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be799fd0c1277d439ce9dff3aded8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_40
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 916
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d86d86845cdc84685febb6346c5fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_41
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 914
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79333fd092e984ca7b211635fbb4e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_42
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 913
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a6bdc923b39c94bb6d71bf09a5a445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_43
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 913
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f331c8231e1aa4b9dd5911fbca6e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_44
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 913
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca40058855652f14c9e589e2e14db367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_45
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 913
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aae932850f7d854da7b6c02ac3a6c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_46
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 913
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cede0edde66c842af38b55f539d60a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_47
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 913
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5676648f2e6ce6948a2931136d70fb64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_48
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 749
+        width: 102
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f61ea7dc3f4b0146b064034ee5497ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 748
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b7ca532bf27640892a0dac27fda4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 747
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed0284657fad954fa2e59867c69acaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_51
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 744
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f92f5136433d7449a87dddc9884e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_52
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 743
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884155d0f33b71409d10b0fc4a6fbd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_53
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 741
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae00215d15ff9459214f147c17309f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_54
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 740
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67430244cc22aac40959a1e93f9c5e47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_55
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 738
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aada48dd5b936d44b881937d3b779137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_56
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 737
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2987dc560fe72a41acfa2225312eba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_57
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 736
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5769c32563e47f4cbcc2ba96d04c5fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_58
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 736
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f302b95ad03224188b41e911e36a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_59
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 734
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56838b79ee3f42e42b15f3fe4b41fec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_60
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 734
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867b335c22438d45a4fb41a0b483daa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_61
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 734
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392904e4e9ee6245881c92846f8c226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_62
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 734
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b04c5940995984b8ece7f1cd3f4a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_63
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 734
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a525fe1c331a4040ad313d64685c11d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 567
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f2edc0b72b1a40a3bca6cb992cc95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 569
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78b2987a99525e48a8eb98afea16139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 575
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c3f5a0ccc46c46bb66c23ce9ca3df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_67
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 583
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7888c01c0c88653459f3d0ce1fe92240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_68
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 584
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97306d5b3eb955746b2283f76f9e6a94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_69
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 586
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730860200ef9b640a63984924c585c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_70
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 586
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1df6e2f282f345beb4c975f7c0ec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_71
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 587
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36bce031e3ab154d994ef2c9714359c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_72
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 587
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b910cb76cdaf56441990726097cfa2a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_73
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 587
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa087ed3da856419e4eca8640bd780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_74
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 583
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616b9d0b892449449842583578ebc3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_75
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 576
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a742d2a61692a4ba65835ec9a1f7cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_76
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 573
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119c209d7ca75ea41ae2c48ef4dd48be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_77
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 573
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae1058e11f69443b2cdea1eedb8a2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_78
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 573
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c055abef668f43a7a656e80a61be5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_79
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 573
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17cb9ba9f4b4e34dabd373911e85a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_80
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 393
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa2d054d628504383217a6b2bf2c4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 393
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14b528dda385d145abf5dec2b3aaa6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_82
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 396
+        width: 109
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d77bddb545ad44b2d25ffc8a34898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_83
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 400
+        width: 113
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1456e2c8a99f44aaa681bba812c415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_84
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 400
+        width: 114
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353fc8a00c953d4ab61cc62313cfd48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_85
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 400
+        width: 113
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7488ab8ad3694394449b106fe4fd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_86
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 399
+        width: 111
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba9cb7e77060a479bbbaa0febbd477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_87
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 397
+        width: 110
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c43d96bfad1124f967d513ece2cb84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_88
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 396
+        width: 109
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff93d8c0880f24984d3c472735ff15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_89
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 395
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927b81923258e2408800af6862537ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_90
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 395
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbfc3f45b2ea164db3459707b2f86c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_91
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 393
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59565080b9491bd4daeac23022d5c613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_92
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 393
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143aa3f2de2d454fb5c33d4235bed27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_93
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 393
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717e33a36ab0da439551532f9dfe54b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_94
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 393
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f07a20aed3ade48ba3fdf637c2ec5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_95
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 393
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c70278da4470440a19e8b7f7ccb7fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 215
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483cdb84c41c6f49bf879d26f1dfd70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 216
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a0684187270f4697727b2ece658bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_98
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 220
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43818ffa42f75cb4c870ac1cf91ba8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_99
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 223
+        width: 87
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268325dbe73a06e4f888abe85653e98d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_100
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 224
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ffe3954bd06343ac3bc697d09c5f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_101
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 224
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1dce0b83830fc41b1d65e852418b17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_102
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 223
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549d895a22d7319489954a713ef3320a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_103
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 221
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688cebd2cce2144ca62f8f05543fe17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_104
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 221
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92251415b880b784e987dd86adebe103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_105
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 220
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb0f4bc6329e14fbfb518e046c981c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_106
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 219
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bcb2920a484b248b49d3c6e92c51fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_107
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 217
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff666fb9b879464ba78ec829c481ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_108
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 217
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8cfb22acaab0458cf52f70b253a84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_109
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 217
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327c0f251fb6224ea187ddb3096e11d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_110
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 217
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13044c3b58dd0af479699d96e85ab2f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_111
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 217
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bae9ad0397aa44384f1bc08991642c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_112
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 121
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137b90e6ed4e4f45b0e899221be9048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_113
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 51
+        width: 121
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c5dce2999e6e439b3ee29c250d7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_114
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 45
+        width: 118
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e623313f27004db5b3c908fca3905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_115
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 39
+        width: 116
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d6bd0b95d92b34390ca3f4d83fac14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_116
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 36
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9140044e6b5bd408946b0cd2498717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_117
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 34
+        width: 104
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1427924900d3b44d98f163056940f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_118
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 32
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607ae36e6fc1e74aaee183be7afa4fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_119
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 29
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eb99146a7c4a84591a5c2bb8f0bb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_120
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 28
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c139983706982274ea02099d6a163272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_121
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 26
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb9e30d0f16f5745a9803388f34c71d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_122
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 25
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d13f1c7d4a9b324c831a977a0a3c303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_123
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 23
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c8979245b61c42b34e96037f8f371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_124
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 23
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615971e62de0b0d4fa7e49a39aa2747e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_125
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 23
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b6ded377f7444b8ea7dd6f2714ec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_126
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 23
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9cd2efea2a45468b853e5fbf30d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Dying_127
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 23
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dca12ff8d7ff7349b6b8bd4bc2e3993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

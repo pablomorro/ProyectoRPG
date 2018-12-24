@@ -17,11 +17,10 @@ public class Attack : MonoBehaviour
     [SerializeField] private LayerMask enemigoLayer;
 
     [SerializeField] private Transform attackChecker; //Transform Player
-                                                      //[SerializeField] private Vector2 weaponSize; 
-    //[SerializeField] private Rect weaponSize; //tamaño arma
+                                                      
     private Vector2 origen; //Origen del ataque
 
-    private int damage;
+    private float damage; //Daño del arma
     private TipoAtaque ataque;
     private float time;  
     private bool completado;
@@ -39,13 +38,12 @@ public class Attack : MonoBehaviour
 
         attack = false;
         completado = true;
+
         duracionAtaqueRapido = 1f;
-        realizarAtaqueRapido = 0.7f;
+        realizarAtaqueRapido = 0.7f; //Momento en el cual se comprueba si el ataque ha dado a algo
 
         radiusAttack = 0.5f;
-
-        //weaponSize.width = 0.5f;
-        //weaponSize.height = 0.1f;
+        damage = 5f;
 
     }
 
@@ -64,7 +62,7 @@ public class Attack : MonoBehaviour
             completado = false;
             AtaqueFuerte();
         }
-
+        /*
         if (time > comboTimeLimit && comboAttack != 0)
         {
             comboAttack = 0;
@@ -74,7 +72,7 @@ public class Attack : MonoBehaviour
         {
             time += Time.fixedDeltaTime;
         }
-       
+       */
     }
 
     private void OnDrawGizmos()
@@ -98,7 +96,7 @@ public class Attack : MonoBehaviour
             mousePosition.y - transform.position.y);
 
         origen = new Vector2(
-            transform.position.x + 0.1f,
+            transform.position.x - 0.1f,
             transform.position.y);
 
         var rayo = Physics2D.RaycastAll(origen, direction, radiusAttack, 1 << LayerMask.NameToLayer("Enemy"));
@@ -106,18 +104,12 @@ public class Attack : MonoBehaviour
         foreach (var x in rayo) {
             if (x.collider.gameObject.tag.Equals("Enemy")) {
                 Debug.Log(x.collider.gameObject.name);
-                Damaged.golpeado = true; //Enemigo hace la animacion del golpe
+                AI_live.golpeado = true; //Enemigo hace la animacion del golpe
+                AI_live.enemyLive -= damage;
+                Debug.Log(AI_live.enemyLive);
             }
         }
             
-
-        /*Collider2D[] enemigos = Physics2D.OverlapCircleAll(
-            attackChecker.position, radiusAttackCheck, enemigoLayer);
-
-        if (enemigos.Length != 0)
-        {
-            Damaged.golpeado = true; //Enemigo hace la animacion del golpe
-        }*/
     }
 
     private void AtaqueRapido()
