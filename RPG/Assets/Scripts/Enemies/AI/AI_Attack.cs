@@ -18,18 +18,20 @@ public class AI_Attack : MonoBehaviour
     [SerializeField] private Transform attackChecker; //Transform Enemy
 
     private Vector2 origen; //Origen del ataque
-    public Vector2 direction; //direccion del jugador
+    public Vector2 target; //posición del objetivo
+    public float secondsBetweenAttacks = 1f;
 
     private float damage; //Daño del enemigo
     private TipoAtaque ataque;
     private float time;
     private bool completado;
-    private float duracionAtaqueRapido;
-    private float realizarAtaqueRapido;
+    public float duracionAtaqueRapido;
+    public float realizarAtaqueRapido;
 
     public static bool attack;
 
     public Animator animator;
+
 
     // Start is called before the first frame update
     void Start()
@@ -39,7 +41,7 @@ public class AI_Attack : MonoBehaviour
         attack = false;
         completado = true;
 
-        duracionAtaqueRapido = 1f;
+        duracionAtaqueRapido = 1f; //duracion de la animacion
         realizarAtaqueRapido = 0.7f; //Momento en el cual se comprueba si el ataque ha dado a algo
 
         radiusAttack = 0.85f;
@@ -47,33 +49,6 @@ public class AI_Attack : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetButtonDown("Fire1") && completado)
-        {   //Left mouse
-            completado = false;
-            AtaqueRapido();
-        }
-
-
-        else if (Input.GetButtonDown("Fire2") && completado)
-        {   //Right mouse
-            completado = false;
-            AtaqueFuerte();
-        }
-        /*
-        if (time > comboTimeLimit && comboAttack != 0)
-        {
-            comboAttack = 0;
-            time = 0;
-        }
-        else
-        {
-            time += Time.fixedDeltaTime;
-        }
-       */
-    }
 
     private void OnDrawGizmos()
     {
@@ -82,26 +57,46 @@ public class AI_Attack : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, radiusAttack);
     }
 
+    public void PerformAttack(int tipoAtaque, Vector2 target)
+    {
+
+        this.target = target;
+
+        if (!attack && completado)
+        {
+            Debug.Log("atacando");
+            switch (tipoAtaque)
+            {
+                case (0):
+                    AtaqueRapido();
+                    break;
+                case (1):
+                    //AtaqueFuerte();
+                    break;
+                default:
+                    break;
+            }
+        }
+    }
+
     private void CheckAttack()
     {
+        Vector2 direction = new Vector2(
+            target.x - transform.position.x,
+            target.y - transform.position.y);
 
         var rayo = Physics2D.RaycastAll(transform.position, direction, radiusAttack, 1 << LayerMask.NameToLayer("Player"));
 
         foreach (var x in rayo)
         {
-            Debug.Log("Player");
             if (x.collider.gameObject.tag.Equals("Player"))
             {
-                Debug.Log(x.collider.gameObject.name);
-                AI_live.golpeado = true; //Enemigo hace la animacion del golpe
-                AI_live.enemyLive -= damage;
-                Debug.Log(AI_live.enemyLive);
+                //TODO: Hacer daño al jugador
+                Debug.Log("jugador alcanzado");
             }
         }
 
     }
-
-    
 
     private void AtaqueRapido()
     {
@@ -110,39 +105,24 @@ public class AI_Attack : MonoBehaviour
         //Animacion ataque
         attack = true;
         animator.SetBool("Attack", attack);
-        StartCoroutine(PararAtaque());
-
-        StartCoroutine(RealizarAtaque());
-    }
-
-    private void AtaqueFuerte()
-    {
-        ataque = TipoAtaque.fuerte;
-
-        //Animacion ataque
-        attack = true;
-        animator.SetBool("Attack", attack);
-        StartCoroutine(PararAtaque());
-
-        StartCoroutine(RealizarAtaque());
+        completado = false;
     }
 
     IEnumerator PararAtaque()
     {
-
-        yield return new WaitForSeconds(duracionAtaqueRapido);
-
         attack = false;
-        completado = true;
         animator.SetBool("Attack", attack);
+
+        yield return new WaitForSeconds(secondsBetweenAttacks);
+     
+        completado = true;
+
     }
 
-    IEnumerator RealizarAtaque()
+    public void PerformDamage()
     {
-
-        yield return new WaitForSeconds(realizarAtaqueRapido);
-
         CheckAttack();
+        StartCoroutine(PararAtaque());
     }
 
 }

@@ -62,7 +62,7 @@ public class EnemyAI : MonoBehaviour
         if (target == null)
         {
             //TODO: busqueda del jugador
-            Debug.Log("no target, stoping");
+            //Debug.Log("no target, stoping");
             rb.velocity = Vector3.zero;
             return;
         }
@@ -89,7 +89,7 @@ public class EnemyAI : MonoBehaviour
                     return;
                 }
                 //the path has ended
-                Debug.Log("Path finished");
+                //Debug.Log("Path finished");
                 pathIsFinished = true;
 
                 parado = true;
@@ -155,7 +155,16 @@ public class EnemyAI : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Colided with" + collision.gameObject.name);
+       // Debug.Log("Colided with" + collision.gameObject.name);
         
     }
+
+    public void FinishCurrentPath()
+    {
+        Debug.Log("finishing path");
+        target = null;
+        path = null;
+    }
+
+    
 }

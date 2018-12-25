@@ -248,7 +248,7 @@ Rigidbody2D:
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
 --- !u!114 &250405913
@@ -4208,7 +4208,10 @@ MonoBehaviour:
   comboAttack: 0
   comboTimeLimit: 0
   attackChecker: {fileID: 364179503}
-  direction: {x: 0, y: 0}
+  target: {x: 0, y: 0}
+  secondsBetweenAttacks: 2
+  duracionAtaqueRapido: 0
+  realizarAtaqueRapido: 0
   animator: {fileID: 863992112}
 --- !u!1 &953796420
 GameObject:
@@ -4500,7 +4503,7 @@ MonoBehaviour:
   manualDebugFloorRoof: 0
   showSearchTree: 0
   unwalkableNodeDebugSize: 0.3
-  logPathResults: 1
+  logPathResults: 0
   maxNearestNodeDistance: 100
   scanOnStartup: 1
   fullGetNearestSearch: 0
@@ -4519,7 +4522,7 @@ MonoBehaviour:
   heuristic: 2
   heuristicScale: 1
   threadCount: 1
-  maxFrameTime: 1
+  maxFrameTime: 10
   batchGraphUpdates: 0
   graphUpdateBatchingInterval: 0.2
   euclideanEmbedding:
@@ -4527,7 +4530,7 @@ MonoBehaviour:
     seed: 0
     pivotPointRoot: {fileID: 0}
     spreadOutCount: 1
-  showGraphs: 1
+  showGraphs: 0
 --- !u!4 &1322247858
 Transform:
   m_ObjectHideFlags: 0
