@@ -49,8 +49,7 @@ public class Movement : MonoBehaviour
 
         //Velocidad
         animator.SetFloat("VelocidadH", moveHorizontal);
-        animator.SetFloat("VelocidadV", moveVertical);                  
-        
+        animator.SetFloat("VelocidadV", moveVertical);       
     }
 
     // - - - - - - - - Jugador mira al ratón - - - - - - - -\\
