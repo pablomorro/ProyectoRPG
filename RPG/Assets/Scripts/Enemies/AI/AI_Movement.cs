@@ -106,14 +106,7 @@ public class AI_Movement : MonoBehaviour
 
                 //direction to the next waypoint;
                 Vector3 dir = (path.vectorPath[currentWaypoint] - transform.position);
-
-                //Animacion Movimiento
-                if (!parado)
-                {
-                    animator.SetFloat("PosicionX", dir.x * 10f);
-                    animator.SetFloat("PosicionY", dir.y * 10f);
-                }
-
+             
                 //dir.z = 0;
                 dir *= (speed * Time.fixedDeltaTime);
 

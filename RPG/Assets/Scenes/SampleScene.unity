@@ -2854,7 +2854,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &633448654
 Transform:
   m_ObjectHideFlags: 0
@@ -5115,7 +5115,7 @@ MonoBehaviour:
   animator: {fileID: 863992112}
   target: {fileID: 0}
   updateRate: 2
-  speed: 20
+  speed: 30
   pathIsFinished: 0
   maxWaypointDistance: 0.8
 --- !u!114 &863992114
@@ -5200,7 +5200,7 @@ MonoBehaviour:
   comboTimeLimit: 0
   attackChecker: {fileID: 364179503}
   target: {x: 0, y: 0}
-  secondsBetweenAttacks: 2
+  secondsBetweenAttacks: 0.5
   duracionAtaqueRapido: 0
   realizarAtaqueRapido: 0
   animator: {fileID: 863992112}
@@ -5394,6 +5394,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b25a7120ddf07b4bac23616a3634810, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  empty: 0
+  icon: {fileID: 0}
 --- !u!114 &918071399
 MonoBehaviour:
   m_ObjectHideFlags: 0

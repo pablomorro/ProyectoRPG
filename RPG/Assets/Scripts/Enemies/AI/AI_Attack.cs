@@ -49,25 +49,7 @@ public class AI_Attack : MonoBehaviour
 
     }
 
-    private void FixedUpdate()
-    {
-        if (target != null) {
-
-            
-            Vector2 direction = new Vector2(
-               target.x - transform.position.x,
-               target.y - transform.position.y);
-
-            Debug.Log(direction);
-
-            //Posicion
-            animator.SetFloat("PosicionX", direction.x );
-            animator.SetFloat("PosicionY", direction.y );
-
-        }
-    }
-
-
+   
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.blue;
@@ -132,6 +114,8 @@ public class AI_Attack : MonoBehaviour
     {
         attack = false;
         animator.SetBool("Attack", attack);
+
+        Debug.Log("Stop attacking");
 
         yield return new WaitForSeconds(secondsBetweenAttacks);
      
