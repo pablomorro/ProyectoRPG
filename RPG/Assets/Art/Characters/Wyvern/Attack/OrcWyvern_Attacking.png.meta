@@ -1,7 +1,95 @@
 fileFormatVersion: 2
 guid: 17bff394b0df93b4593a057858a6300b
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: OrcWyvern_Attacking_0
+    21300002: OrcWyvern_Attacking_1
+    21300004: OrcWyvern_Attacking_2
+    21300006: OrcWyvern_Attacking_3
+    21300008: OrcWyvern_Attacking_4
+    21300010: OrcWyvern_Attacking_5
+    21300012: OrcWyvern_Attacking_6
+    21300014: OrcWyvern_Attacking_7
+    21300016: OrcWyvern_Attacking_8
+    21300018: OrcWyvern_Attacking_9
+    21300020: OrcWyvern_Attacking_10
+    21300022: OrcWyvern_Attacking_11
+    21300024: OrcWyvern_Attacking_12
+    21300026: OrcWyvern_Attacking_13
+    21300028: OrcWyvern_Attacking_14
+    21300030: OrcWyvern_Attacking_15
+    21300032: OrcWyvern_Attacking_16
+    21300034: OrcWyvern_Attacking_17
+    21300036: OrcWyvern_Attacking_18
+    21300038: OrcWyvern_Attacking_19
+    21300040: OrcWyvern_Attacking_20
+    21300042: OrcWyvern_Attacking_21
+    21300044: OrcWyvern_Attacking_22
+    21300046: OrcWyvern_Attacking_23
+    21300048: OrcWyvern_Attacking_24
+    21300050: OrcWyvern_Attacking_25
+    21300052: OrcWyvern_Attacking_26
+    21300054: OrcWyvern_Attacking_27
+    21300056: OrcWyvern_Attacking_28
+    21300058: OrcWyvern_Attacking_29
+    21300060: OrcWyvern_Attacking_30
+    21300062: OrcWyvern_Attacking_31
+    21300064: OrcWyvern_Attacking_32
+    21300066: OrcWyvern_Attacking_33
+    21300068: OrcWyvern_Attacking_34
+    21300070: OrcWyvern_Attacking_35
+    21300072: OrcWyvern_Attacking_36
+    21300074: OrcWyvern_Attacking_37
+    21300076: OrcWyvern_Attacking_38
+    21300078: OrcWyvern_Attacking_39
+    21300080: OrcWyvern_Attacking_40
+    21300082: OrcWyvern_Attacking_41
+    21300084: OrcWyvern_Attacking_42
+    21300086: OrcWyvern_Attacking_43
+    21300088: OrcWyvern_Attacking_44
+    21300090: OrcWyvern_Attacking_45
+    21300092: OrcWyvern_Attacking_46
+    21300094: OrcWyvern_Attacking_47
+    21300096: OrcWyvern_Attacking_48
+    21300098: OrcWyvern_Attacking_49
+    21300100: OrcWyvern_Attacking_50
+    21300102: OrcWyvern_Attacking_51
+    21300104: OrcWyvern_Attacking_52
+    21300106: OrcWyvern_Attacking_53
+    21300108: OrcWyvern_Attacking_54
+    21300110: OrcWyvern_Attacking_55
+    21300112: OrcWyvern_Attacking_56
+    21300114: OrcWyvern_Attacking_57
+    21300116: OrcWyvern_Attacking_58
+    21300118: OrcWyvern_Attacking_59
+    21300120: OrcWyvern_Attacking_60
+    21300122: OrcWyvern_Attacking_61
+    21300124: OrcWyvern_Attacking_62
+    21300126: OrcWyvern_Attacking_63
+    21300128: OrcWyvern_Attacking_64
+    21300130: OrcWyvern_Attacking_65
+    21300132: OrcWyvern_Attacking_66
+    21300134: OrcWyvern_Attacking_67
+    21300136: OrcWyvern_Attacking_68
+    21300138: OrcWyvern_Attacking_69
+    21300140: OrcWyvern_Attacking_70
+    21300142: OrcWyvern_Attacking_71
+    21300144: OrcWyvern_Attacking_72
+    21300146: OrcWyvern_Attacking_73
+    21300148: OrcWyvern_Attacking_74
+    21300150: OrcWyvern_Attacking_75
+    21300152: OrcWyvern_Attacking_76
+    21300154: OrcWyvern_Attacking_77
+    21300156: OrcWyvern_Attacking_78
+    21300158: OrcWyvern_Attacking_79
+    21300160: OrcWyvern_Attacking_80
+    21300162: OrcWyvern_Attacking_81
+    21300164: OrcWyvern_Attacking_82
+    21300166: OrcWyvern_Attacking_83
+    21300168: OrcWyvern_Attacking_84
+    21300170: OrcWyvern_Attacking_85
+    21300172: OrcWyvern_Attacking_86
+    21300174: OrcWyvern_Attacking_87
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +128,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -82,7 +170,1767 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1285
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775368ade44f7046831d44948e39610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1286
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef5fd763f5eff4393aa4556ba3ee05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1290
+        width: 132
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a9a9b6fe5abd045879f0ba92802356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1291
+        width: 131
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172715180f953a4db1fb09cab1fb6aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_4
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1284
+        width: 131
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a08746df3424d449d74c360899041a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_5
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1279
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266caad9af98f2a44acd3d78775187e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_6
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1280
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b112745c2e1e4eb3b9ed6cca335c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_7
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1279
+        width: 126
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55739021e2da76848b6e4d5655446a74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1278
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829521d6e6ca0ef47a5beb9047aea389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_9
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1284
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2599fca06f7f154eb761c274b728b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_10
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1285
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b83e4ea06aa7645b605c2f7b238594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1084
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f6963776556740bd68f2d4d43889e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1083
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028c20a527fb8b4080fa81c975d3761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1080
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b52a6862d49f44b1f80f0344ea0c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1079
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc4a47f7d79e4f458f1243ef0c68644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_15
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1082
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f5c294f6d76b43aa4a57106fc16e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1086
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2849dbbb42620004c812bd0657a7f6ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_17
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1088
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ab955bebaa1d43b6a249b716520f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_18
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1094
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816954177991b4d44aae1f755784af09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_19
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1093
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2164d86e878e4db7f88852aab6bde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_20
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1087
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3790af4648ddad46be43ccf1a3e2704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_21
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1084
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7931ba0f9c3d994186a0aa6cfab934e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 925
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e143ff25a068fbb46b05435952e37eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 924
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d33b869feee73f43aad48b290dd671b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 922
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03ac5452713605429e8eb15ed0d7c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_25
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 921
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b751cb1ab21f4d99fcce60e7b4eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_26
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 923
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f70cfd94fbbf347870c10620ade7a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_27
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 925
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f3e4054d4a8840a86bda959ea3d6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_28
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 927
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6581e0748ea32478ccb6f9f11f08f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_29
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 933
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba66acdf629e9a46b16386c99992640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_30
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 934
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec2b217e16fb24d8a2be82fae29365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_31
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 928
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604cd86b3ee4c2408422ee458aebda5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_32
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 925
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd3beb9ea576034ba497f96f501b3cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 751
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2cf0dd88b48d4187cbf5505e8b0cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 749
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e0a02c9c10da4ea4a41464488b8b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 746
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235edea59306664c879681a5bc6338d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_36
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 745
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa18e34f1cc97144aa973ca940919a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_37
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 747
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed51e3b03343e4a86d069e7ced720c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_38
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 749
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3c0fb9f0b71434fa59982390ffcd97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_39
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 751
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e73795cc58f1b84fb7ebc37d5d63c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_40
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 758
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9473249b87544abef7eedbd7b0b7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_41
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 759
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9491440d3ecbf419d2f0cd6690493f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_42
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 753
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54a6405b177364393f3d5f4cb65154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_43
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 751
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a43313799e5d748977d3d4f68e5002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 567
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde1c8f15ee40f4883d635c25669103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_45
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 574
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20238ac0218b64abbbd09db82c997e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 586
+        width: 89
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc04aa8b8fb34f64899f53a1dc2555ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 585
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f55a8d69b2dc64490a0f6eaddbbd8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_48
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 580
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045eb45160d6ba41a7356f1842620cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_49
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 575
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cdbab4dfa2fd43aed340f45130d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_50
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 564
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4ec1fee8280148a172216077c7c63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_51
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 557
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a534b6d93b18a4cb4a72060552482d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_52
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 558
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bda724bf0df554997cf5fbeba8e98a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_53
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 564
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd0671d7c5137448c8e75462694861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_54
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 567
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e039f035e0602b345a64a7efff8c99cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 394
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c6be218a03ee04b88a249f0c20641a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 396
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214cada203585f48a828867938daf86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_57
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 400
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce1f720f92507b4eba18cd90e8e68e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_58
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 398
+        width: 107
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94ce5084c23c04eafb8e4f4ead293a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_59
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 394
+        width: 107
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd69f0fcc6ab9d543ad5a2cf0e5a0fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_60
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 392
+        width: 108
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313fc18846f0f9345977a7dfdf938bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_61
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 392
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c51faad4988e4aa95aa39215c81fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_62
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 388
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73765afdbc5677f43b89550ae469e5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_63
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 390
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812e792dde1a0ce4a82da168aedd2ea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_64
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 392
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7bbc9578d4b8468b82d641d3ec2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_65
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 394
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ca9e265eaab646b1ecc7f75031c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 215
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f691d327bf1053744baaacff711cdb75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 220
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ddb463acb8f2446888571116565a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 223
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2406b64aa693d584791775f725c44eb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_69
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 221
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877dee1282dc9741aeeb7aec0f501ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_70
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 219
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe82b1f68d4dd4f99d50b37675e29f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_71
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 218
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74647f0db7b57248b42a496d2cd4617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_72
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 215
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708775995a5d9d04298748a013d60109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_73
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 211
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38abc82cfe7914a8f8db490b0cfca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_74
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 212
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045e6c2327d41bb4eb6c3da64de26416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_75
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 214
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a650b1ac695e4643847810ea16a8ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_76
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 215
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0fe2db1882a3449d527109ba7670e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 120
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d872738d26d321542888629b72a1cd63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 117
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01174c6f3a61a224093ef895b9665df9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 58
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd37be197da12448fefb5551346dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_80
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 58
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096566a523bd61418247543e8b20810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_81
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 51
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33bb4d3e890074f919376fd8d12a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_82
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 45
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae2f1d973c55c941a568124ea567b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_83
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 45
+        width: 115
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133010aeea677640aa70002ea22b4ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_84
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 45
+        width: 125
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf2ca22785ea548924c205a4496592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_85
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 44
+        width: 130
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb3c2f14471af545a8bf6a8c1fc0165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_86
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 50
+        width: 123
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7580a78b3e14c1489a5a70f2a28a4bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcWyvern_Attacking_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 51
+        width: 120
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c1caa713d72d64bae6507d26aeab07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

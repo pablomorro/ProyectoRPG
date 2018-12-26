@@ -5,12 +5,12 @@ using UnityEngine;
 public class PlayerDetection : MonoBehaviour
 {
 
-    private EnemyAI ai;
+    private AI_Movement ai;
     public Transform initPos;
     // Start is called before the first frame update
     void Start()
     {
-        ai = GetComponentInParent<EnemyAI>();
+        ai = GetComponentInParent<AI_Movement>();
     }
 
     // Update is called once per frame

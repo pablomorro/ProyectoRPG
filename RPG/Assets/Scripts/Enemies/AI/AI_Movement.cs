@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Pathfinding;
 
-public class EnemyAI : MonoBehaviour
+public class AI_Movement : MonoBehaviour
 {
 
     [SerializeField] private Animator animator;
@@ -106,19 +106,20 @@ public class EnemyAI : MonoBehaviour
 
                 //direction to the next waypoint;
                 Vector3 dir = (path.vectorPath[currentWaypoint] - transform.position);
+
+                //Animacion Movimiento
+                if (!parado)
+                {
+                    animator.SetFloat("PosicionX", dir.x * 10f);
+                    animator.SetFloat("PosicionY", dir.y * 10f);
+                }
+
                 //dir.z = 0;
                 dir *= (speed * Time.fixedDeltaTime);
 
                 //move the ai
                
                 rb.velocity = new Vector3(dir.x, dir.y, 0);
-
-                //Animacion Movimiento
-                if (!parado)
-                {
-                    animator.SetFloat("VelocidadX", dir.x * 10f);
-                    animator.SetFloat("VelocidadY", dir.y * 10f);
-                }
 
                 float dist = Vector3.Distance(transform.position, path.vectorPath[currentWaypoint]);
 

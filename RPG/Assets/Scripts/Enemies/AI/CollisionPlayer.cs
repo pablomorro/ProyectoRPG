@@ -7,13 +7,13 @@ public class CollisionPlayer : MonoBehaviour
 
     private AI_Attack ai_attack;
 
-    private EnemyAI movementAI;
+    private AI_Movement movementAI;
 
     // Start is called before the first frame update
     void Start()
     {
         ai_attack = GetComponentInParent<AI_Attack>();
-        movementAI = GetComponentInParent<EnemyAI>();
+        movementAI = GetComponentInParent<AI_Movement>();
     }
 
     // Update is called once per frame

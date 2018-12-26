@@ -49,6 +49,24 @@ public class AI_Attack : MonoBehaviour
 
     }
 
+    private void FixedUpdate()
+    {
+        if (target != null) {
+
+            
+            Vector2 direction = new Vector2(
+               target.x - transform.position.x,
+               target.y - transform.position.y);
+
+            Debug.Log(direction);
+
+            //Posicion
+            animator.SetFloat("PosicionX", direction.x );
+            animator.SetFloat("PosicionY", direction.y );
+
+        }
+    }
+
 
     private void OnDrawGizmos()
     {
@@ -64,9 +82,11 @@ public class AI_Attack : MonoBehaviour
 
         if (!attack && completado)
         {
+
             //Debug.Log("atacando");
             switch (tipoAtaque)
             {
+ 
                 case (0):
                     AtaqueRapido();
                     break;
