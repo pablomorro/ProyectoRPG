@@ -494,6 +494,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   attackChecker: {fileID: 250405907}
+  secondsBetweenAttacks: 1
   animator: {fileID: 250405908}
 --- !u!70 &250405914
 CapsuleCollider2D:
@@ -2149,7 +2150,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &633448654
 Transform:
   m_ObjectHideFlags: 0
@@ -5002,7 +5003,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1699058952
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -41,12 +41,4 @@ public class PlayerDetection : MonoBehaviour
         }
     }
 
-    private void OnTriggerStay2D(Collider2D col)
-    {
-        if (col.gameObject.name.Equals("Player"))
-        {
-
-            Debug.Log("dsadsa");
-        }
-    }
 }

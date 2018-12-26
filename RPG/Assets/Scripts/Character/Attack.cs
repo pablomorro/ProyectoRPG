@@ -28,8 +28,10 @@ public class Attack : MonoBehaviour
     private float realizarAtaqueRapido;
 
     public static bool attack;
-
+    public float secondsBetweenAttacks = 1f;
     public Animator animator;
+
+    private bool doingDamage = false; //se usa para evitar que dos animaciones llamen al evento de realizar daño a la vez
 
     // Start is called before the first frame update
     void Start()
@@ -60,7 +62,7 @@ public class Attack : MonoBehaviour
         else if (Input.GetButtonDown("Fire2") && completado)
         {   //Right mouse
             completado = false;
-            AtaqueFuerte();
+            //AtaqueFuerte();
         }
         /*
         if (time > comboTimeLimit && comboAttack != 0)
@@ -119,39 +121,32 @@ public class Attack : MonoBehaviour
         //Animacion ataque
         attack = true;
         animator.SetBool("Attack", attack);
-        StartCoroutine(PararAtaque());
-
-        StartCoroutine(RealizarAtaque());
+        completado = false;
     }
 
-    private void AtaqueFuerte()
+    void PararAtaque()
     {
-        ataque = TipoAtaque.fuerte;
-
-        //Animacion ataque
-        attack = true;
-        animator.SetBool("Attack", attack);
-        StartCoroutine(PararAtaque());
-
-        StartCoroutine(RealizarAtaque());
-    }
-
-    IEnumerator PararAtaque()
-    {
-
-        yield return new WaitForSeconds(duracionAtaqueRapido);
-
         attack = false;
-        completado = true;
         animator.SetBool("Attack", attack);
+
+        //yield return new WaitForSeconds(secondsBetweenAttacks);
+
+        completado = true;
+
     }
 
-    IEnumerator RealizarAtaque()
+    public void PerformDamage(AnimationEvent evt)
     {
-
-        yield return new WaitForSeconds(realizarAtaqueRapido);
-
-        CheckAttack();
+       
+        if (evt.animatorClipInfo.weight > 0.5)
+        {
+            // Do handle animation event
+            Debug.Log("Doing damage");
+            doingDamage = true;
+            CheckAttack();
+            PararAtaque();
+            doingDamage = false;
+        }
     }
 
 }

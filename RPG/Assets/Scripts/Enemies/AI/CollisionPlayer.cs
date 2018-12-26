@@ -38,7 +38,7 @@ public class CollisionPlayer : MonoBehaviour
     {
         if (col.gameObject.name.Equals("Player"))
         {
-            Debug.Log("Attack");
+            //Debug.Log("Attack");
             //Start following the player
             ai_attack.PerformAttack(0, col.gameObject.transform.position);
         }

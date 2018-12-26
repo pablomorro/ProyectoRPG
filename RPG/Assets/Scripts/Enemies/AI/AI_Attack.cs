@@ -64,7 +64,7 @@ public class AI_Attack : MonoBehaviour
 
         if (!attack && completado)
         {
-            Debug.Log("atacando");
+            //Debug.Log("atacando");
             switch (tipoAtaque)
             {
                 case (0):
@@ -92,7 +92,7 @@ public class AI_Attack : MonoBehaviour
             if (x.collider.gameObject.tag.Equals("Player"))
             {
                 //TODO: Hacer daño al jugador
-                Debug.Log("jugador alcanzado");
+                //Debug.Log("jugador alcanzado");
             }
         }
 
@@ -119,10 +119,14 @@ public class AI_Attack : MonoBehaviour
 
     }
 
-    public void PerformDamage()
+    public void PerformDamage(AnimationEvent evt)
     {
-        CheckAttack();
-        StartCoroutine(PararAtaque());
+        if (evt.animatorClipInfo.weight > 0.5)
+        {
+            CheckAttack();
+            StartCoroutine(PararAtaque());
+        }
+        
     }
 
 }
