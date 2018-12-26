@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - InventoryUI
+  - SlotsHolder
   layers:
   - Default
   - TransparentFX

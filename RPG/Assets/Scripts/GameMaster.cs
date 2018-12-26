@@ -11,6 +11,11 @@ public class GameMaster : MonoBehaviour
     //public float musicVolume = 0f, sfxVolume = 0f;
 
     public GameObject inventoryPanel;
+    private int allSlots;
+    private int enableSlots;
+    private GameObject[] slot; //Espacios para los items
+
+    public GameObject slotsHolder; 
 
     public InventorySistem inventory;
     
@@ -19,6 +24,10 @@ public class GameMaster : MonoBehaviour
         if (GameObject.FindGameObjectWithTag("InventoryUI")) {
             inventoryPanel = GameObject.FindGameObjectWithTag("InventoryUI");
             inventoryPanel.SetActive(false);
+        }
+
+        if (GameObject.FindGameObjectWithTag("SlotsHolder")) {
+            slotsHolder = GameObject.FindGameObjectWithTag("SlotsHolder");
         }
     }
 
@@ -49,7 +58,13 @@ public class GameMaster : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        allSlots = 21;
+        slot = new GameObject[allSlots];
+
+        for (int i = 0; i < allSlots; i++)
+        {
+            slot[i] = slotsHolder.transform.GetChild(i).gameObject;
+        }
     }
 
     // Update is called once per frame
