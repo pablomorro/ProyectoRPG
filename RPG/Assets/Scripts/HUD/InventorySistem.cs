@@ -17,7 +17,7 @@ public class InventorySistem
 
     public InventoryItem SelectedWeapon {
         get { return selectedWeapon; }
-        set { SelectedWeapon = value; }
+        set { selectedWeapon = value; }
     }
 
     public InventoryItem SelectedArmour {

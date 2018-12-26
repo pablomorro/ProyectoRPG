@@ -7,5 +7,7 @@ public class InventoryItemUI : MonoBehaviour
 {
 
     //public Text textItemElement;
+    public bool empty;
+    public Texture2D icon;
     
 }
