@@ -63,8 +63,8 @@ public class Movement : MonoBehaviour
             mousePosition.y - transform.position.y);
 
         //Posicion
-        animator.SetFloat("PositionX", direction.x);
-        animator.SetFloat("PositionY", direction.y);
+        animator.SetFloat("PositionX", direction.x * 10f);
+        animator.SetFloat("PositionY", direction.y * 10f);
 
     }
 }

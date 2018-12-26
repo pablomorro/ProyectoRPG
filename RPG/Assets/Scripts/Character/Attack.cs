@@ -137,8 +137,8 @@ public class Attack : MonoBehaviour
 
     public void PerformDamage(AnimationEvent evt)
     {
-       
-        if (evt.animatorClipInfo.weight > 0.5)
+
+        if (evt.animatorClipInfo.weight > 0.3)
         {
             // Do handle animation event
             Debug.Log("Doing damage");
@@ -147,6 +147,9 @@ public class Attack : MonoBehaviour
             PararAtaque();
             doingDamage = false;
         }
+        else
+        {
+            //Debug.Log(evt.animatorClipInfo.weight);
+        }
     }
-
 }
