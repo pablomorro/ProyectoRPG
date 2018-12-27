@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class GameMaster : MonoBehaviour
@@ -10,6 +11,7 @@ public class GameMaster : MonoBehaviour
     //public bool showOptions = false;
     //public float musicVolume = 0f, sfxVolume = 0f;
 
+    //Inventory
     public GameObject inventoryPanel;
     private int allSlots;
     private int enableSlots;
@@ -18,12 +20,15 @@ public class GameMaster : MonoBehaviour
     public GameObject slotsHolder; 
 
     public InventorySistem inventory;
+
+    public Transform canvas;
     
     private void OnEnable()
     {
         if (GameObject.FindGameObjectWithTag("SlotsHolder"))
         {
             slotsHolder = GameObject.FindGameObjectWithTag("SlotsHolder");
+            canvas = GameObject.Find("HUD").transform;
         }
 
         if (GameObject.FindGameObjectWithTag("InventoryUI")) {
@@ -107,5 +112,13 @@ public class GameMaster : MonoBehaviour
 
     public void RpgDestroy(GameObject item) {
         Destroy(item);
+    }
+
+    public Vector2 ScreenToCanvasPoint(Vector2 screenPosition) {
+        Vector2 viewportPoint = Camera.main.ScreenToViewportPoint(screenPosition);
+
+        Vector2 canvasSize = canvas.GetComponent<RectTransform>().sizeDelta;
+
+        return (new Vector2(viewportPoint.x * canvasSize.x, viewportPoint.y * canvasSize.y) - (canvasSize / 2));
     }
 }
