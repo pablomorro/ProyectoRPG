@@ -6,8 +6,24 @@ using UnityEngine.UI;
 public class InventoryItemUI : MonoBehaviour
 {
 
-    //public Text textItemElement;
+    public InventoryItem item;
+
+    public Transform slotIcon;
     public bool empty;
-    public Texture2D icon;
+
+    public void Start()
+    {
+        Color c = new Color(255, 255, 255, 0); 
+        slotIcon.GetComponent<Image>().color = c;
+    }
+
+    public void UpdateSlot() {
+        empty = false;
+
+        Color c = new Color(255, 255, 255, 255);
+        slotIcon.GetComponent<Image>().color = c;
+
+        slotIcon.GetComponent<Image>().sprite = item.Icon;
+    }
     
 }

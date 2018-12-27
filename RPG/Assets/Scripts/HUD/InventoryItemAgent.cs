@@ -13,6 +13,7 @@ public class InventoryItemAgent : MonoBehaviour
             InventoryItem collectedItem = new InventoryItem();
             collectedItem.CopyInventoryItem(item);
             GameMaster.sharedInstance.inventory.AddItem(collectedItem);
+            GameMaster.sharedInstance.AddItemSlot(collectedItem);
             GameMaster.sharedInstance.RpgDestroy(gameObject);
         }
     }

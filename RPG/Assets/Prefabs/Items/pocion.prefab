@@ -122,6 +122,7 @@ MonoBehaviour:
   item:
     name: Pocion curativa
     description: Pocion para recuperar vida
+    icon: {fileID: 21300090, guid: 1ab1765be6318484c86d178128bf7b28, type: 3}
     category: 4
     strength: 0
     weight: 0.1

@@ -12,28 +12,32 @@ public class InventoryItem : BaseItem
     
     public ItemCategory Category
     {
-        get { return category; }
-        set { category = value; }
+        get => category; 
+        set => category = value; 
     }
 
     public float Strength
     {
-        get { return strength; }
-        set { strength = value; }
+        get => strength; 
+        set => strength = value; 
     }
 
     public float Weight
     {
-        get { return weight; }
-        set { weight = value; }
+        get => weight; 
+        set => weight = value; 
     }
 
     public void CopyInventoryItem(InventoryItem item) {
+        
+        //Base item
         Category = item.Category;
-
+       
         Description = item.Description;
         Name = item.Name;
+        Icon = item.Icon;
 
+        //Item en el inventario
         Strength = item.Strength;
         Weight = item.Weight;
     }
