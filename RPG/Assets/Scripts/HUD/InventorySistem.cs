@@ -5,7 +5,7 @@ using UnityEngine;
 [System.Serializable]
 public class InventorySistem 
 {
-
+    //Tipos de objetos
     [SerializeField] private List<InventoryItem> weapons = new List<InventoryItem>();
     [SerializeField] private List<InventoryItem> armour = new List<InventoryItem>();
     [SerializeField] private List<InventoryItem> clothing = new List<InventoryItem>();

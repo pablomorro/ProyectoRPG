@@ -21,14 +21,15 @@ public class GameMaster : MonoBehaviour
     
     private void OnEnable()
     {
+        if (GameObject.FindGameObjectWithTag("SlotsHolder"))
+        {
+            slotsHolder = GameObject.FindGameObjectWithTag("SlotsHolder");
+        }
+
         if (GameObject.FindGameObjectWithTag("InventoryUI")) {
             inventoryPanel = GameObject.FindGameObjectWithTag("InventoryUI");
             inventoryPanel.SetActive(false);
-        }
-
-        if (GameObject.FindGameObjectWithTag("SlotsHolder")) {
-            slotsHolder = GameObject.FindGameObjectWithTag("SlotsHolder");
-        }
+        }        
     }
 
     private void Awake()
@@ -39,13 +40,15 @@ public class GameMaster : MonoBehaviour
 
             inventory = new InventorySistem();
 
-            InventoryItem tempItem = new InventoryItem();
-
-            tempItem.Category = BaseItem.ItemCategory.Clothing;
-            tempItem.Name = "Capa mágica";
-            tempItem.Description = "La peor capa del juego";
-            tempItem.Strength = 0.5f;
-            tempItem.Weight = 0.1f;
+            InventoryItem tempItem = new InventoryItem
+            {
+                Category = BaseItem.ItemCategory.Clothing,
+                Name = "Capa mágica",
+                Description = "La peor capa del juego",
+                Strength = 0.5f,
+                Weight = 0.1f,
+                Icon = null
+            };
 
             inventory.AddItem(tempItem);
         }
@@ -63,8 +66,11 @@ public class GameMaster : MonoBehaviour
 
         for (int i = 0; i < allSlots; i++)
         {
-            slot[i] = slotsHolder.transform.GetChild(i).gameObject;
+            slot[i] = slotsHolder.transform.GetChild(i).gameObject;            
+            slot[i].GetComponent<InventoryItemUI>().empty = true;
         }
+
+        
     }
 
     // Update is called once per frame
@@ -73,6 +79,28 @@ public class GameMaster : MonoBehaviour
         //if (currentScene.name != SceneName.mainMenu) //No estamos en el menu principal
         if (Input.GetKeyDown(KeyCode.I)) {
             inventoryPanel.SetActive(!inventoryPanel.activeInHierarchy);
+        }
+    }
+
+    public void AddItemSlot(InventoryItem itemObject)
+    {
+        for (int i = 0; i < allSlots; i++)
+        {   
+            if (slot[i].GetComponent<InventoryItemUI>().empty)
+            {
+                slot[i].GetComponent<InventoryItemUI>().item.Category = itemObject.Category;
+
+                slot[i].GetComponent<InventoryItemUI>().item.Name = itemObject.Name;
+                slot[i].GetComponent<InventoryItemUI>().item.Icon = itemObject.Icon;
+                
+                slot[i].GetComponent<InventoryItemUI>().item.Description = itemObject.Description;                
+                slot[i].GetComponent<InventoryItemUI>().item.Strength = itemObject.Strength;
+                slot[i].GetComponent<InventoryItemUI>().item.Weight = itemObject.Weight;
+
+                slot[i].GetComponent<InventoryItemUI>().UpdateSlot();
+
+                return;
+            }
         }
     }
 

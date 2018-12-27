@@ -16,15 +16,21 @@ public class BaseItem
 
     [SerializeField] private string name;
     [SerializeField] private string description;
+    [SerializeField] private Sprite icon;
 
     public string Name {
-        get { return name; }
-        set { name = value; }
+        get => name; 
+        set => name = value; 
     }
 
     public string Description {
-        get { return description; }
-        set { description = value; }
+        get => description; 
+        set => description = value; 
+    }
+
+    public Sprite Icon {
+        get => icon; 
+        set => icon = value; 
     }
     
 }
