@@ -11,7 +11,7 @@ public class InventoryItemUI : MonoBehaviour
     public Transform slotIcon;
     public bool empty;
 
-    public void Start()
+    public void ChangeColor()
     {
         Color c = new Color(255, 255, 255, 0); 
         slotIcon.GetComponent<Image>().color = c;

@@ -68,6 +68,7 @@ public class GameMaster : MonoBehaviour
         {
             slot[i] = slotsHolder.transform.GetChild(i).gameObject;            
             slot[i].GetComponent<InventoryItemUI>().empty = true;
+            slot[i].GetComponent<InventoryItemUI>().ChangeColor();
         }
 
         
