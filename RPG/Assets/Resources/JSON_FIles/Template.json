@@ -1,0 +1,29 @@
+{
+   "id":0,
+   "description":"recoge dos espadas",
+   "questName":"primera tarea",
+   "recipient":0,
+   "requiredLevel":0,
+   
+   "reward":{
+      "exp":400.0,
+      "money":100.0,
+      "items":[ ]
+   },
+   
+   "task":{
+      "talkTo":[
+
+      ],
+      "items":[
+         {
+            "reqAmount":2,
+            "gatheredQuantity":0,
+            "id":0,
+            "item":{ }
+         }
+      ],
+      "kills":[ ],
+      "questPositions":[ ]
+   }
+}

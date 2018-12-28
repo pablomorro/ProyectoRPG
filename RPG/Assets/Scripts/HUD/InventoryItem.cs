@@ -9,6 +9,8 @@ public class InventoryItem : BaseItem
     [SerializeField] private ItemCategory category;
     [SerializeField] private float strength;
     [SerializeField] private float weight;
+
+    public int id = 0;
     
     public ItemCategory Category
     {

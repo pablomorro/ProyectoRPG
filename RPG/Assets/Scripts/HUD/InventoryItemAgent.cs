@@ -15,6 +15,7 @@ public class InventoryItemAgent : MonoBehaviour
             GameMaster.sharedInstance.inventory.AddItem(collectedItem);
             GameMaster.sharedInstance.AddItemSlot(collectedItem);
             GameMaster.sharedInstance.RpgDestroy(gameObject);
+            GameMaster.sharedInstance.questProgressionManager.UpdateQuest(item);
         }
     }
 }

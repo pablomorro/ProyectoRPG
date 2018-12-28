@@ -18,6 +18,8 @@ public class GameMaster : MonoBehaviour
     public GameObject slotsHolder; 
 
     public InventorySistem inventory;
+
+    public QuestProgressionManager questProgressionManager;
     
     private void OnEnable()
     {
@@ -29,7 +31,9 @@ public class GameMaster : MonoBehaviour
         if (GameObject.FindGameObjectWithTag("InventoryUI")) {
             inventoryPanel = GameObject.FindGameObjectWithTag("InventoryUI");
             inventoryPanel.SetActive(false);
-        }        
+        }
+
+        questProgressionManager = GetComponent<QuestProgressionManager>();
     }
 
     private void Awake()
