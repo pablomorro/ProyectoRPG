@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class GameMaster : MonoBehaviour
@@ -10,22 +11,25 @@ public class GameMaster : MonoBehaviour
     //public bool showOptions = false;
     //public float musicVolume = 0f, sfxVolume = 0f;
 
+    //Inventory
     public GameObject inventoryPanel;
     private int allSlots;
     private int enableSlots;
     private GameObject[] slot; //Espacios para los items
 
-    public GameObject slotsHolder; 
+    public GameObject slotsHolder;
 
     public InventorySistem inventory;
 
     public QuestProgressionManager questProgressionManager;
-    
+    public Transform canvas;
+
     private void OnEnable()
     {
         if (GameObject.FindGameObjectWithTag("SlotsHolder"))
         {
             slotsHolder = GameObject.FindGameObjectWithTag("SlotsHolder");
+            canvas = GameObject.Find("HUD").transform;
         }
 
         if (GameObject.FindGameObjectWithTag("InventoryUI")) {
@@ -70,12 +74,12 @@ public class GameMaster : MonoBehaviour
 
         for (int i = 0; i < allSlots; i++)
         {
-            slot[i] = slotsHolder.transform.GetChild(i).gameObject;            
+            slot[i] = slotsHolder.transform.GetChild(i).gameObject;
             slot[i].GetComponent<InventoryItemUI>().empty = true;
             slot[i].GetComponent<InventoryItemUI>().ChangeColor();
         }
 
-        
+
     }
 
     // Update is called once per frame
@@ -90,15 +94,15 @@ public class GameMaster : MonoBehaviour
     public void AddItemSlot(InventoryItem itemObject)
     {
         for (int i = 0; i < allSlots; i++)
-        {   
+        {
             if (slot[i].GetComponent<InventoryItemUI>().empty)
             {
                 slot[i].GetComponent<InventoryItemUI>().item.Category = itemObject.Category;
 
                 slot[i].GetComponent<InventoryItemUI>().item.Name = itemObject.Name;
                 slot[i].GetComponent<InventoryItemUI>().item.Icon = itemObject.Icon;
-                
-                slot[i].GetComponent<InventoryItemUI>().item.Description = itemObject.Description;                
+
+                slot[i].GetComponent<InventoryItemUI>().item.Description = itemObject.Description;
                 slot[i].GetComponent<InventoryItemUI>().item.Strength = itemObject.Strength;
                 slot[i].GetComponent<InventoryItemUI>().item.Weight = itemObject.Weight;
 
@@ -111,5 +115,13 @@ public class GameMaster : MonoBehaviour
 
     public void RpgDestroy(GameObject item) {
         Destroy(item);
+    }
+
+    public Vector2 ScreenToCanvasPoint(Vector2 screenPosition) {
+        Vector2 viewportPoint = Camera.main.ScreenToViewportPoint(screenPosition);
+
+        Vector2 canvasSize = canvas.GetComponent<RectTransform>().sizeDelta;
+
+        return (new Vector2(viewportPoint.x * canvasSize.x, viewportPoint.y * canvasSize.y) - (canvasSize / 2));
     }
 }

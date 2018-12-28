@@ -25,5 +25,9 @@ public class InventoryItemUI : MonoBehaviour
 
         slotIcon.GetComponent<Image>().sprite = item.Icon;
     }
+
+    public void ClearSlot() {
+
+    }
     
 }
