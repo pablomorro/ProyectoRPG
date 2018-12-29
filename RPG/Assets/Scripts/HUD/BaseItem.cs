@@ -11,7 +11,8 @@ public class BaseItem
         Armour,
         Clothing, 
         Health,
-        Potion
+        Potion,
+        Nulo
     }
 
     [SerializeField] private string name;

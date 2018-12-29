@@ -14,7 +14,6 @@ public class GameMaster : MonoBehaviour
     //Inventory
     public GameObject inventoryPanel;
     private int allSlots;
-    private int enableSlots;
     private GameObject[] slot; //Espacios para los items
 
     public GameObject slotsHolder;
@@ -77,8 +76,8 @@ public class GameMaster : MonoBehaviour
         for (int i = 0; i < allSlots; i++)
         {
             slot[i] = slotsHolder.transform.GetChild(i).gameObject;
-            slot[i].GetComponent<InventoryItemUI>().empty = true;
-            slot[i].GetComponent<InventoryItemUI>().ChangeColor();
+            slot[i].GetComponentInChildren<InventoryItemUI>().ClearSlot();
+            slot[i].GetComponentInChildren<InventoryItemUI>().ChangeColor();
         }
 
 
@@ -110,18 +109,11 @@ public class GameMaster : MonoBehaviour
     {
         for (int i = 0; i < allSlots; i++)
         {
-            if (slot[i].GetComponent<InventoryItemUI>().empty)
+            if (slot[i].GetComponentInChildren<InventoryItemUI>().empty)
             {
-                slot[i].GetComponent<InventoryItemUI>().item.Category = itemObject.Category;
+                slot[i].GetComponentInChildren<InventoryItemUI>().ChangeSlot(itemObject);
 
-                slot[i].GetComponent<InventoryItemUI>().item.Name = itemObject.Name;
-                slot[i].GetComponent<InventoryItemUI>().item.Icon = itemObject.Icon;
-
-                slot[i].GetComponent<InventoryItemUI>().item.Description = itemObject.Description;
-                slot[i].GetComponent<InventoryItemUI>().item.Strength = itemObject.Strength;
-                slot[i].GetComponent<InventoryItemUI>().item.Weight = itemObject.Weight;
-
-                slot[i].GetComponent<InventoryItemUI>().UpdateSlot();
+                slot[i].GetComponentInChildren<InventoryItemUI>().UpdateSlot();
 
                 return;
             }

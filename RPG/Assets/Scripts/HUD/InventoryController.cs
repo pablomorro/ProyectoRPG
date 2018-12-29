@@ -10,9 +10,14 @@ public class InventoryController : MonoBehaviour
     GraphicRaycaster graphicRaycaster;
     PointerEventData pointerEventData;
     List<RaycastResult> raycastResults;
-    InventoryItemUI currentItem;
 
     GameObject draggedItem;
+
+    GameObject myParent;
+    GameObject myDestination;
+
+    private InventoryItem myParentItem;
+    private InventoryItem myDraggedSlot; //Slot al cual va el DraggedItem
 
     // Start is called before the first frame update
     void Start()
@@ -29,6 +34,7 @@ public class InventoryController : MonoBehaviour
     }
 
     void DragItems() {
+        //Select item
         if (Input.GetMouseButtonDown(0)) {
             pointerEventData.position = Input.mousePosition;
             graphicRaycaster.Raycast(pointerEventData, raycastResults);
@@ -39,22 +45,10 @@ public class InventoryController : MonoBehaviour
                 {
                     if (item.gameObject.GetComponent<InventoryItemUI>())
                     {
+                        myParent = item.gameObject.transform.parent.gameObject;
 
-                        currentItem.item.Category = item.gameObject.GetComponent<InventoryItemUI>().item.Category;
-
-                        currentItem.item.Name = item.gameObject.GetComponent<InventoryItemUI>().item.Name;
-                        currentItem.item.Icon = item.gameObject.GetComponent<InventoryItemUI>().item.Icon;
-
-                        currentItem.item.Description = item.gameObject.GetComponent<InventoryItemUI>().item.Description;
-                        currentItem.item.Strength = item.gameObject.GetComponent<InventoryItemUI>().item.Strength;
-                        currentItem.item.Weight = item.gameObject.GetComponent<InventoryItemUI>().item.Weight;
-
-                        currentItem.slotIcon = item.gameObject.GetComponent<InventoryItemUI>().slotIcon;
-
-                        item.gameObject.GetComponent<InventoryItemUI>().empty = true;
-
+                        draggedItem = item.gameObject;
                         draggedItem.transform.SetParent(GameMaster.sharedInstance.canvas);
-
                     }
                 }
       
@@ -66,28 +60,88 @@ public class InventoryController : MonoBehaviour
             draggedItem.GetComponent<RectTransform>().localPosition = GameMaster.sharedInstance.ScreenToCanvasPoint(Input.mousePosition);
 
         //End dragging
-        if (Input.GetMouseButtonUp(0)) {
+        if (Input.GetMouseButtonUp(0) && draggedItem != null) {
             pointerEventData.position = Input.mousePosition;
             raycastResults.Clear();
             graphicRaycaster.Raycast(pointerEventData, raycastResults);
+
+            draggedItem.transform.SetParent(myParent.transform);
 
             if (raycastResults.Count > 0) {
                 foreach (var item in raycastResults)
                 {
                     if (item.gameObject.CompareTag("Slot"))
-                    {
-                        draggedItem.transform.SetParent(item.gameObject.transform);
-                        draggedItem.transform.localPosition = Vector3.zero;
+                    {                        
+                        if (draggedItem.transform.position != myParent.transform.position) //Cambiamos el item de Slot
+                        {
+                            draggedItem.transform.SetParent(item.gameObject.transform);
+
+                            item.gameObject.transform.GetChild(0).SetParent(myParent.transform);
+                            myParent.transform.GetChild(0).position = myParent.transform.position;
+                            
+                        }
                         break;
 
+                    }
+                    
+                    else if (item.gameObject.CompareTag("CharacterOutfit"))
+                    {
+                        bool reset = false;
+                        // Borrar del Slot
+                        if (item.gameObject.GetComponentInChildren<InventoryItemUI>().item.Name == "")
+                            reset = true;
+
+                        EquipItem(item);
+                        
+                        if (reset) myParent.GetComponentInChildren<InventoryItemUI>().ClearSlot();
+                        break;
                     }
                 }
             }
 
+            draggedItem.transform.localPosition = Vector3.zero;
             draggedItem = null;
         }
            
         raycastResults.Clear();
 
+    }
+
+    void EquipItem(RaycastResult item) {
+
+        Color c = new Color(255, 255, 255, 0); //Se queda transparente 
+        foreach (Transform slot in item.gameObject.transform) //slot es el panel en la zona de outfit
+        {
+            if (slot.parent.name == "Potions" && myParent.transform.GetComponentInChildren<InventoryItemUI>().item.Category == BaseItem.ItemCategory.Potion)
+            { //En el slot para pociones voy a meter una pocion(item.Category == Potion)
+                ChangeItemSlot(slot, c, item);
+            }
+
+            else if (slot.parent.name == "Weapon" && myParent.transform.GetComponentInChildren<InventoryItemUI>().item.Category == BaseItem.ItemCategory.Weapon)
+            {
+                ChangeItemSlot(slot, c, item);
+            }
+
+            else if (slot.parent.name == "Shield" && myParent.transform.GetComponentInChildren<InventoryItemUI>().item.Category == BaseItem.ItemCategory.Armour)
+            {
+                ChangeItemSlot(slot, c, item);
+            }
+
+            else if (slot.parent.name == "Breastplate" && myParent.transform.GetComponent<InventoryItemUI>().item.Category == BaseItem.ItemCategory.Clothing)
+            {
+                ChangeItemSlot(slot, c, item);
+            }
+        }
+               
+    }
+
+    private void ChangeItemSlot(Transform slotIcon, Color c, RaycastResult item) {
+
+        draggedItem.transform.SetParent(slotIcon.parent);
+
+        item.gameObject.transform.GetChild(0).SetParent(myParent.transform);
+        item.gameObject.GetComponentInChildren<Image>().color = c;
+
+        myParent.transform.GetChild(0).position = myParent.transform.position;
     }
 }

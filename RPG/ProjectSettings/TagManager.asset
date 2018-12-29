@@ -9,6 +9,7 @@ TagManager:
   - SlotsHolder
   - Slot
   - Canvas
+  - CharacterOutfit
   layers:
   - Default
   - TransparentFX
