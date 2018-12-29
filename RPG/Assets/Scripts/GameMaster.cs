@@ -21,7 +21,9 @@ public class GameMaster : MonoBehaviour
 
     public InventorySistem inventory;
 
+    [HideInInspector]
     public QuestProgressionManager questProgressionManager;
+    public GameObject mapPanel;
     public Transform canvas;
 
     private void OnEnable()
@@ -86,8 +88,21 @@ public class GameMaster : MonoBehaviour
     void Update()
     {
         //if (currentScene.name != SceneName.mainMenu) //No estamos en el menu principal
-        if (Input.GetKeyDown(KeyCode.I)) {
+        if (Input.GetKeyDown(KeyCode.I))
+        {
             inventoryPanel.SetActive(!inventoryPanel.activeInHierarchy);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            //abrir la lista de misiones
+            GameObject.Find("QuestManager").GetComponent<QuestDisplayManager>().ShowQuestList();
+        }
+
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            //abrir el mapa
+           mapPanel.GetComponent<MapController>().ShowMap();
         }
     }
 

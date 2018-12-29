@@ -8,14 +8,16 @@ public class InventoryItemAgent : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag.Equals("Player")) {
+        if (collision.gameObject.tag.Equals("Player"))
+        {
             //Hacemos una copia del objeto recogido
             InventoryItem collectedItem = new InventoryItem();
             collectedItem.CopyInventoryItem(item);
             GameMaster.sharedInstance.inventory.AddItem(collectedItem);
             GameMaster.sharedInstance.AddItemSlot(collectedItem);
             GameMaster.sharedInstance.RpgDestroy(gameObject);
-            GameMaster.sharedInstance.questProgressionManager.UpdateQuest(item);
+            GameObject.Find("QuestManager").GetComponent<QuestProgressionManager>().UpdateQuest(item);
+
         }
     }
 }

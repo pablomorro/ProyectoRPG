@@ -18,6 +18,11 @@ public class MapController : MonoBehaviour
 
     }
 
+    public void ShowMap()
+    {
+        this.gameObject.SetActive(!this.gameObject.activeSelf);
+    }
+
     private void Update()
     {
         if (Input.GetAxis("Mouse ScrollWheel") > 0f) // forward

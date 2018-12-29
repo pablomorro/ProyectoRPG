@@ -19,40 +19,41 @@ public class QuestDisplayManager : MonoBehaviour
 
     private void Start()
     {
-        activeQuests = GetComponent<QuestManager>().activeQuests;
+        activeQuests = GameObject.Find("QuestManager").GetComponent<QuestManager>().activeQuests;
         buttons = new Dictionary<int, GameObject>();
 
         Invoke("InitializeQuestButtons", 0.5f);
     }
 
-    private void Update()
+    public void ShowQuestList()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
+        if (questPanel.activeSelf)
         {
-
-            //Obtener lista con las misiones activas
-            activeQuests = GetComponent<QuestManager>().activeQuests;
-
-            //Crear un botón por cada mision activa
-            foreach (var quest in activeQuests)
-            {
-                if (!buttons.ContainsKey(quest.id))
-                {
-                    //Asignar el boton a la lista 
-                    GameObject button = Instantiate(buttonPrefab);
-                    button.transform.SetParent(questListPanel);
-                    button.GetComponentInChildren<TextMeshProUGUI>().text = quest.questName;
-                    button.GetComponent<QuestButtonController>().quest = quest;
-
-                    buttons.Add(quest.id, button);
-                }
-
-            }
-
-            //Mostrar el  panel
             questPanel.SetActive(!questPanel.activeSelf);
+            return;
         }
 
+        //Obtener lista con las misiones activas
+        activeQuests = GetComponent<QuestManager>().activeQuests;
+
+        //Crear un botón por cada mision activa
+        foreach (var quest in activeQuests)
+        {
+            if (!buttons.ContainsKey(quest.id))
+            {
+                //Asignar el boton a la lista 
+                GameObject button = Instantiate(buttonPrefab);
+                button.transform.SetParent(questListPanel);
+                button.GetComponentInChildren<TextMeshProUGUI>().text = quest.questName;
+                button.GetComponent<QuestButtonController>().quest = quest;
+
+                buttons.Add(quest.id, button);
+            }
+
+        }
+
+        //Mostrar el  panel
+        questPanel.SetActive(!questPanel.activeSelf);
     }
 
 
